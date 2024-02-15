@@ -1,0 +1,3501 @@
+Country,Indicator,Continent,Year,Life Expectancy
+Afghanistan,Developing,Asia,2000,55.841
+Albania,Developing,Europe,2000,73.955
+Algeria,Developing,Africa,2000,70.64
+Angola,Developing,Africa,2000,46.522
+Antigua and Barbuda,Developing,North America,2000,73.94
+Argentina,Developing,South America,2000,73.576
+Armenia,Developing,Asia,2000,71.409
+Australia,Developed,Oceania,2000,79.23414634
+Austria,Developed,Europe,2000,78.12682927
+Azerbaijan,Developing,Asia,2000,66.763
+Bahamas,Developing,North America,2000,71.914
+Bahrain,Developing,Asia,2000,74.44
+Bangladesh,Developing,Asia,2000,65.447
+Barbados,Developing,North America,2000,77.162
+Belarus,Developing,Europe,2000,68.91219512
+Belgium,Developed,Europe,2000,77.72195122
+Belize,Developing,North America,2000,68.847
+Benin,Developing,Africa,2000,55.391
+Bhutan,Developing,Asia,2000,60.884
+Bolivia,Developing,South America,2000,62.452
+Bosnia and Herzegovina,Developing,Europe,2000,74.403
+Botswana,Developing,Africa,2000,50.629
+Brazil,Developing,South America,2000,70.116
+Brunei,Developing,Asia,2000,72.809
+Bulgaria,Developing,Europe,2000,71.66341463
+Burkina Faso,Developing,Africa,2000,50.489
+Burundi,Developing,Africa,2000,49.091
+Cambodia,Developing,Asia,2000,58.432
+Cameroon,Developing,Africa,2000,50.993
+Canada,Developed,North America,2000,79.13658537
+Cape Verde,Developing,Africa,2000,68.583
+Central African Republic,Developing,Africa,2000,44.19
+Chad,Developing,Africa,2000,47.713
+Chile,Developing,South America,2000,76.366
+China,Developing,Asia,2000,71.397
+Colombia,Developing,South America,2000,72.945
+Comoros,Developing,Africa,2000,59.46
+Costa Rica,Developing,North America,2000,77.452
+Croatia,Developing,Europe,2000,72.80780488
+Czech Republic,Developed,Europe,2000,74.96829268
+Denmark,Developed,Europe,2000,76.59268293
+Djibouti,Developing,Africa,2000,57.022
+Dominica,Developing,North America,2000,76.59756098
+Dominican Republic,Developing,North America,2000,69.429
+DR Congo,Developing,Africa,2000,50.041
+Ecuador,Developing,South America,2000,72.761
+Egypt,Developing,Africa,2000,68.602
+El Salvador,Developing,North America,2000,68.875
+Equatorial Guinea,Developing,Africa,2000,53.279
+Eritrea,Developing,Africa,2000,55.273
+Estonia,Developed,Europe,2000,70.41707317
+Eswatini,Developing,Africa,2000,47.49
+Ethiopia,Developing,Africa,2000,51.941
+Fiji,Developing,Oceania,2000,65.687
+Finland,Developed,Europe,2000,77.46585366
+France,Developed,Europe,2000,79.05609756
+Gabon,Developing,Africa,2000,58.264
+Gambia,Developing,Africa,2000,55.956
+Georgia,Developing,Asia,2000,69.902
+Germany,Developed,Europe,2000,77.92682927
+Ghana,Developing,Africa,2000,57.002
+Grenada,Developing,North America,2000,72.648
+Guatemala,Developing,North America,2000,67.849
+Guinea,Developing,Africa,2000,51.203
+Guinea-Bissau,Developing,Africa,2000,50.368
+Guyana,Developing,South America,2000,65.242
+Haiti,Developing,North America,2000,57.131
+Honduras,Developing,North America,2000,70.689
+Hungary,Developing,Europe,2000,71.24634146
+Iceland,Developed,Europe,2000,79.65365854
+India,Developing,Asia,2000,62.505
+Indonesia,Developing,Asia,2000,65.772
+Iran,Developing,Asia,2000,70.176
+Iraq,Developing,Asia,2000,69.082
+Ireland,Developed,Europe,2000,76.53658537
+Ivory Coast,Developing,Africa,2000,49.635
+Jamaica,Developing,North America,2000,74.142
+Japan,Developed,Asia,2000,81.07609756
+Jordan,Developing,Asia,2000,71.73
+Kazakhstan,Developing,Asia,2000,65.45
+Kenya,Developing,Africa,2000,50.921
+Kiribati,Developing,Oceania,2000,63.144
+Kuwait,Developing,Asia,2000,73.142
+Kyrgyzstan,Developing,Asia,2000,68.55853659
+Laos,Developing,Asia,2000,58.803
+Lebanon,Developing,Asia,2000,74.507
+Lesotho,Developing,Africa,2000,47.691
+Liberia,Developing,Africa,2000,51.734
+Libya,Developing,Africa,2000,70.852
+Luxembourg,Developed,Europe,2000,77.87317073
+Madagascar,Developing,Africa,2000,58.485
+Malawi,Developing,Africa,2000,45.09
+Malaysia,Developing,Asia,2000,72.594
+Maldives,Developing,Asia,2000,70.173
+Mali,Developing,Africa,2000,48.069
+Marshall Islands,Developing,Oceania,2000,65.23902439
+Mauritania,Developing,Africa,2000,60.706
+Mauritius,Developing,Africa,2000,71.66341463
+Mexico,Developing,North America,2000,74.34
+Micronesia,Developing,Oceania,2000,64.55
+Moldova,Developing,Europe,2000,67.006
+Mongolia,Developing,Asia,2000,62.869
+Montenegro,Developing,Europe,2000,73.18207317
+Morocco,Developing,Africa,2000,68.684
+Mozambique,Developing,Africa,2000,48.946
+Myanmar,Developing,Asia,2000,60.063
+Namibia,Developing,Africa,2000,52.192
+Nepal,Developing,Asia,2000,62.288
+Netherlands,Developed,Europe,2000,77.98780488
+New Zealand,Developed,Oceania,2000,78.63658537
+Nicaragua,Developing,North America,2000,69.527
+Niger,Developing,Africa,2000,49.928
+Nigeria,Developing,Africa,2000,46.267
+North Macedonia,Developing,Europe,2000,72.94634146
+Norway,Developed,Europe,2000,78.63414634
+Oman,Developing,Asia,2000,72.126
+Pakistan,Developing,Asia,2000,62.82
+Palau,Developing,Oceania,2000,70.49365854
+Panama,Developing,North America,2000,75.06
+Papua New Guinea,Developing,Oceania,2000,59.265
+Paraguay,Developing,South America,2000,70.546
+Peru,Developing,South America,2000,71.111
+Philippines,Developing,Asia,2000,68.793
+Portugal,Developed,Europe,2000,76.31463415
+Qatar,Developing,Asia,2000,77.467
+Republic of the Congo,Developing,Africa,2000,52.123
+Romania,Developing,Europe,2000,71.16341463
+Russia,Developing,Europe,2000,65.48365854
+Rwanda,Developing,Africa,2000,48.649
+Saint Kitts and Nevis,Developing,North America,2000,71.33658537
+Saint Lucia,Developing,North America,2000,73.319
+Saint Vincent and the Grenadines,Developing,North America,2000,70.809
+Samoa,Developing,Oceania,2000,68.748
+Sao Tome and Principe,Developing,Africa,2000,61.365
+Saudi Arabia,Developing,Asia,2000,72.561
+Senegal,Developing,Africa,2000,57.787
+Serbia,Developing,Europe,2000,71.58292683
+Seychelles,Developing,Africa,2000,72.77804878
+Sierra Leone,Developing,Africa,2000,39.441
+Singapore,Developed,Asia,2000,77.95121951
+Solomon Islands,Developing,Oceania,2000,67.442
+Somalia,Developing,Africa,2000,50.869
+South Africa,Developing,Africa,2000,56.048
+South Korea,Developed,Asia,2000,75.9097561
+South Sudan,Developing,Africa,2000,49.166
+Spain,Developed,Europe,2000,78.96585366
+Sri Lanka,Developing,Asia,2000,71.333
+Sudan,Developing,Africa,2000,58.472
+Suriname,Developing,South America,2000,67.822
+Sweden,Developed,Europe,2000,79.64390244
+Switzerland,Developed,Europe,2000,79.6804878
+Syria,Developing,Asia,2000,73.11
+Tajikistan,Developing,Asia,2000,61.974
+Tanzania,Developing,Africa,2000,50.801
+Thailand,Developing,Asia,2000,70.623
+Timor-Leste,Developing,Asia,2000,59.002
+Togo,Developing,Africa,2000,53.491
+Tonga,Developing,Oceania,2000,69.667
+Trinidad and Tobago,Developing,North America,2000,69.413
+Tunisia,Developing,Africa,2000,73.172
+Turkey,Developing,Asia,2000,70.005
+Turkmenistan,Developing,Asia,2000,63.613
+Uganda,Developing,Africa,2000,46.229
+Ukraine,Developing,Europe,2000,67.67560976
+United Arab Emirates,Developing,Asia,2000,74.327
+United Kingdom,Developed,Europe,2000,77.74146341
+United States,Developed,North America,2000,76.63658537
+Uruguay,Developing,South America,2000,74.731
+Uzbekistan,Developing,Asia,2000,67.156
+Vanuatu,Developing,Oceania,2000,67.363
+Venezuela,Developing,South America,2000,72.112
+Vietnam,Developing,Asia,2000,73.025
+Yemen,Developing,Asia,2000,60.683
+Zambia,Developing,Africa,2000,44
+Zimbabwe,Developing,Africa,2000,44.649
+Afghanistan,Developing,Asia,2001,56.308
+Albania,Developing,Europe,2001,74.288
+Algeria,Developing,Africa,2001,71.116
+Angola,Developing,Africa,2001,47.059
+Antigua and Barbuda,Developing,North America,2001,74.171
+Argentina,Developing,South America,2001,73.755
+Armenia,Developing,Asia,2001,71.8
+Australia,Developed,Oceania,2001,79.63414634
+Austria,Developed,Europe,2001,78.57560976
+Azerbaijan,Developing,Asia,2001,67.054
+Bahamas,Developing,North America,2001,71.954
+Bahrain,Developing,Asia,2001,74.635
+Bangladesh,Developing,Asia,2001,65.956
+Barbados,Developing,North America,2001,77.362
+Belarus,Developing,Europe,2001,68.50731707
+Belgium,Developed,Europe,2001,77.97317073
+Belize,Developing,North America,2001,69.04
+Benin,Developing,Africa,2001,55.668
+Bhutan,Developing,Asia,2001,61.808
+Bolivia,Developing,South America,2001,63.054
+Bosnia and Herzegovina,Developing,Europe,2001,74.637
+Botswana,Developing,Africa,2001,50.281
+Brazil,Developing,South America,2001,70.462
+Brunei,Developing,Asia,2001,73.076
+Bulgaria,Developing,Europe,2001,71.76829268
+Burkina Faso,Developing,Africa,2001,50.893
+Burundi,Developing,Africa,2001,49.93
+Cambodia,Developing,Asia,2001,59.335
+Cameroon,Developing,Africa,2001,51.222
+Canada,Developed,North America,2001,79.33902439
+Cape Verde,Developing,Africa,2001,69.099
+Central African Republic,Developing,Africa,2001,44.061
+Chad,Developing,Africa,2001,47.789
+Chile,Developing,South America,2001,76.634
+China,Developing,Asia,2001,71.732
+Colombia,Developing,South America,2001,73.241
+Comoros,Developing,Africa,2001,59.529
+Costa Rica,Developing,North America,2001,77.601
+Croatia,Developing,Europe,2001,74.51292683
+Czech Republic,Developed,Europe,2001,75.17317073
+Denmark,Developed,Europe,2001,76.79268293
+Djibouti,Developing,Africa,2001,57.1
+Dominica,Developing,North America,2001,76.59756098
+Dominican Republic,Developing,North America,2001,69.69
+DR Congo,Developing,Africa,2001,50.667
+Ecuador,Developing,South America,2001,73.078
+Egypt,Developing,Africa,2001,68.796
+El Salvador,Developing,North America,2001,69.162
+Equatorial Guinea,Developing,Africa,2001,53.581
+Eritrea,Developing,Africa,2001,55.864
+Estonia,Developed,Europe,2001,70.25853659
+Eswatini,Developing,Africa,2001,45.799
+Ethiopia,Developing,Africa,2001,52.595
+Fiji,Developing,Oceania,2001,65.863
+Finland,Developed,Europe,2001,77.96585366
+France,Developed,Europe,2001,79.15853659
+Gabon,Developing,Africa,2001,57.968
+Gambia,Developing,Africa,2001,56.359
+Georgia,Developing,Asia,2001,70.065
+Germany,Developed,Europe,2001,78.32926829
+Ghana,Developing,Africa,2001,57.158
+Grenada,Developing,North America,2001,72.805
+Guatemala,Developing,North America,2001,68.304
+Guinea,Developing,Africa,2001,51.255
+Guinea-Bissau,Developing,Africa,2001,50.744
+Guyana,Developing,South America,2001,65.532
+Haiti,Developing,North America,2001,57.382
+Honduras,Developing,North America,2001,70.976
+Hungary,Developing,Europe,2001,72.24878049
+Iceland,Developed,Europe,2001,80.6902439
+India,Developing,Asia,2001,62.907
+Indonesia,Developing,Asia,2001,66.037
+Iran,Developing,Asia,2001,70.553
+Iraq,Developing,Asia,2001,68.983
+Ireland,Developed,Europe,2001,77.13414634
+Ivory Coast,Developing,Africa,2001,49.495
+Jamaica,Developing,North America,2001,74.139
+Japan,Developed,Asia,2001,81.41707317
+Jordan,Developing,Asia,2001,71.907
+Kazakhstan,Developing,Asia,2001,65.76
+Kenya,Developing,Africa,2001,51.101
+Kiribati,Developing,Oceania,2001,63.446
+Kuwait,Developing,Asia,2001,73.21
+Kyrgyzstan,Developing,Asia,2001,68.70731707
+Laos,Developing,Asia,2001,59.372
+Lebanon,Developing,Asia,2001,74.999
+Lesotho,Developing,Africa,2001,46.197
+Liberia,Developing,Africa,2001,52.236
+Libya,Developing,Africa,2001,71.038
+Luxembourg,Developed,Europe,2001,77.82439024
+Madagascar,Developing,Africa,2001,59.129
+Malawi,Developing,Africa,2001,45.204
+Malaysia,Developing,Asia,2001,72.782
+Maldives,Developing,Asia,2001,70.964
+Mali,Developing,Africa,2001,48.758
+Marshall Islands,Developing,Oceania,2001,65.23902439
+Mauritania,Developing,Africa,2001,60.788
+Mauritius,Developing,Africa,2001,71.76585366
+Mexico,Developing,North America,2001,74.658
+Micronesia,Developing,Oceania,2001,64.71
+Moldova,Developing,Europe,2001,67.185
+Mongolia,Developing,Asia,2001,63.319
+Montenegro,Developing,Europe,2001,73.1875122
+Morocco,Developing,Africa,2001,69.193
+Mozambique,Developing,Africa,2001,49.295
+Myanmar,Developing,Asia,2001,60.377
+Namibia,Developing,Africa,2001,51.399
+Nepal,Developing,Asia,2001,62.945
+Netherlands,Developed,Europe,2001,78.1902439
+New Zealand,Developed,Oceania,2001,78.69268293
+Nicaragua,Developing,North America,2001,69.934
+Niger,Developing,Africa,2001,50.584
+Nigeria,Developing,Africa,2001,46.51
+North Macedonia,Developing,Europe,2001,73.43658537
+Norway,Developed,Europe,2001,78.78536585
+Oman,Developing,Asia,2001,72.58
+Pakistan,Developing,Asia,2001,63.066
+Palau,Developing,Oceania,2001,69.81146341
+Panama,Developing,North America,2001,75.233
+Papua New Guinea,Developing,Oceania,2001,59.487
+Paraguay,Developing,South America,2001,70.786
+Peru,Developing,South America,2001,71.505
+Philippines,Developing,Asia,2001,68.835
+Portugal,Developed,Europe,2001,76.81463415
+Qatar,Developing,Asia,2001,77.612
+Republic of the Congo,Developing,Africa,2001,52.517
+Romania,Developing,Europe,2001,71.16097561
+Russia,Developing,Europe,2001,65.38341463
+Rwanda,Developing,Africa,2001,49.936
+Saint Kitts and Nevis,Developing,North America,2001,71.33658537
+Saint Lucia,Developing,North America,2001,73.486
+Saint Vincent and the Grenadines,Developing,North America,2001,70.882
+Samoa,Developing,Oceania,2001,69.103
+Sao Tome and Principe,Developing,Africa,2001,62.017
+Saudi Arabia,Developing,Asia,2001,72.759
+Senegal,Developing,Africa,2001,58.177
+Serbia,Developing,Europe,2001,72.23414634
+Seychelles,Developing,Africa,2001,73.25365854
+Sierra Leone,Developing,Africa,2001,40.369
+Singapore,Developed,Asia,2001,78.25121951
+Solomon Islands,Developing,Oceania,2001,67.816
+Somalia,Developing,Africa,2001,51.213
+South Africa,Developing,Africa,2001,55.089
+South Korea,Developed,Asia,2001,76.41219512
+South Sudan,Developing,Africa,2001,49.592
+Spain,Developed,Europe,2001,79.36829268
+Sri Lanka,Developing,Asia,2001,72.233
+Sudan,Developing,Africa,2001,58.859
+Suriname,Developing,South America,2001,67.913
+Sweden,Developed,Europe,2001,79.79512195
+Switzerland,Developed,Europe,2001,80.1804878
+Syria,Developing,Asia,2001,73.371
+Tajikistan,Developing,Asia,2001,62.807
+Tanzania,Developing,Africa,2001,51.444
+Thailand,Developing,Asia,2001,70.832
+Timor-Leste,Developing,Asia,2001,59.945
+Togo,Developing,Africa,2001,53.554
+Tonga,Developing,Oceania,2001,69.725
+Trinidad and Tobago,Developing,North America,2001,69.65
+Tunisia,Developing,Africa,2001,73.415
+Turkey,Developing,Asia,2001,70.56
+Turkmenistan,Developing,Asia,2001,63.842
+Uganda,Developing,Africa,2001,47.22
+Ukraine,Developing,Europe,2001,67.83707317
+United Arab Emirates,Developing,Asia,2001,74.544
+United Kingdom,Developed,Europe,2001,77.99268293
+United States,Developed,North America,2001,76.83658537
+Uruguay,Developing,South America,2001,74.939
+Uzbekistan,Developing,Asia,2001,67.374
+Vanuatu,Developing,Oceania,2001,67.583
+Venezuela,Developing,South America,2001,72.294
+Vietnam,Developing,Asia,2001,73.228
+Yemen,Developing,Asia,2001,61.216
+Zambia,Developing,Africa,2001,44.615
+Zimbabwe,Developing,Africa,2001,44.01
+Afghanistan,Developing,Asia,2002,56.784
+Albania,Developing,Europe,2002,74.579
+Algeria,Developing,Africa,2002,71.605
+Angola,Developing,Africa,2002,47.702
+Antigua and Barbuda,Developing,North America,2002,74.395
+Argentina,Developing,South America,2002,73.932
+Armenia,Developing,Asia,2002,72.112
+Australia,Developed,Oceania,2002,79.93658537
+Austria,Developed,Europe,2002,78.67804878
+Azerbaijan,Developing,Asia,2002,67.391
+Bahamas,Developing,North America,2002,71.977
+Bahrain,Developing,Asia,2002,74.822
+Bangladesh,Developing,Asia,2002,66.43
+Barbados,Developing,North America,2002,77.534
+Belarus,Developing,Europe,2002,68.05609756
+Belgium,Developed,Europe,2002,78.07560976
+Belize,Developing,North America,2002,69.272
+Benin,Developing,Africa,2002,56.025
+Bhutan,Developing,Asia,2002,62.728
+Bolivia,Developing,South America,2002,63.64
+Bosnia and Herzegovina,Developing,Europe,2002,74.803
+Botswana,Developing,Africa,2002,50.232
+Brazil,Developing,South America,2002,70.813
+Brunei,Developing,Asia,2002,73.332
+Bulgaria,Developing,Europe,2002,71.86585366
+Burkina Faso,Developing,Africa,2002,51.384
+Burundi,Developing,Africa,2002,50.81
+Cambodia,Developing,Asia,2002,60.283
+Cameroon,Developing,Africa,2002,51.536
+Canada,Developed,North America,2002,79.4902439
+Cape Verde,Developing,Africa,2002,69.557
+Central African Republic,Developing,Africa,2002,44.063
+Chad,Developing,Africa,2002,47.9
+Chile,Developing,South America,2002,76.894
+China,Developing,Asia,2002,72.061
+Colombia,Developing,South America,2002,73.517
+Comoros,Developing,Africa,2002,59.617
+Costa Rica,Developing,North America,2002,77.74
+Croatia,Developing,Europe,2002,74.71731707
+Czech Republic,Developed,Europe,2002,75.22195122
+Denmark,Developed,Europe,2002,76.89512195
+Djibouti,Developing,Africa,2002,57.235
+Dominica,Developing,North America,2002,76.59756098
+Dominican Republic,Developing,North America,2002,69.957
+DR Congo,Developing,Africa,2002,51.385
+Ecuador,Developing,South America,2002,73.371
+Egypt,Developing,Africa,2002,68.961
+El Salvador,Developing,North America,2002,69.432
+Equatorial Guinea,Developing,Africa,2002,53.84
+Eritrea,Developing,Africa,2002,56.5
+Estonia,Developed,Europe,2002,70.90487805
+Eswatini,Developing,Africa,2002,44.41
+Ethiopia,Developing,Africa,2002,53.349
+Fiji,Developing,Oceania,2002,66.022
+Finland,Developed,Europe,2002,78.1195122
+France,Developed,Europe,2002,79.26097561
+Gabon,Developing,Africa,2002,57.791
+Gambia,Developing,Africa,2002,56.761
+Georgia,Developing,Asia,2002,70.22
+Germany,Developed,Europe,2002,78.22926829
+Ghana,Developing,Africa,2002,57.425
+Grenada,Developing,North America,2002,72.929
+Guatemala,Developing,North America,2002,68.717
+Guinea,Developing,Africa,2002,51.484
+Guinea-Bissau,Developing,Africa,2002,51.123
+Guyana,Developing,South America,2002,65.828
+Haiti,Developing,North America,2002,57.655
+Honduras,Developing,North America,2002,71.249
+Hungary,Developing,Europe,2002,72.34878049
+Iceland,Developed,Europe,2002,80.50243902
+India,Developing,Asia,2002,63.304
+Indonesia,Developing,Asia,2002,66.321
+Iran,Developing,Asia,2002,70.921
+Iraq,Developing,Asia,2002,68.827
+Ireland,Developed,Europe,2002,77.63414634
+Ivory Coast,Developing,Africa,2002,49.475
+Jamaica,Developing,North America,2002,74.14
+Japan,Developed,Asia,2002,81.56341463
+Jordan,Developing,Asia,2002,72.083
+Kazakhstan,Developing,Asia,2002,65.95
+Kenya,Developing,Africa,2002,51.606
+Kiribati,Developing,Oceania,2002,63.731
+Kuwait,Developing,Asia,2002,73.28
+Kyrgyzstan,Developing,Asia,2002,68.15609756
+Laos,Developing,Asia,2002,59.937
+Lebanon,Developing,Asia,2002,75.488
+Lesotho,Developing,Africa,2002,44.898
+Liberia,Developing,Africa,2002,52.826
+Libya,Developing,Africa,2002,71.244
+Luxembourg,Developed,Europe,2002,77.96585366
+Madagascar,Developing,Africa,2002,59.717
+Malawi,Developing,Africa,2002,45.517
+Malaysia,Developing,Asia,2002,72.976
+Maldives,Developing,Asia,2002,71.708
+Mali,Developing,Africa,2002,49.54
+Marshall Islands,Developing,Oceania,2002,65.23902439
+Mauritania,Developing,Africa,2002,60.892
+Mauritius,Developing,Africa,2002,71.96585366
+Mexico,Developing,North America,2002,74.922
+Micronesia,Developing,Oceania,2002,64.888
+Moldova,Developing,Europe,2002,67.362
+Mongolia,Developing,Asia,2002,63.777
+Montenegro,Developing,Europe,2002,73.23726829
+Morocco,Developing,Africa,2002,69.769
+Mozambique,Developing,Africa,2002,49.61
+Myanmar,Developing,Asia,2002,60.685
+Namibia,Developing,Africa,2002,50.862
+Nepal,Developing,Asia,2002,63.57
+Netherlands,Developed,Europe,2002,78.29268293
+New Zealand,Developed,Oceania,2002,78.84634146
+Nicaragua,Developing,North America,2002,70.308
+Niger,Developing,Africa,2002,51.256
+Nigeria,Developing,Africa,2002,46.835
+North Macedonia,Developing,Europe,2002,73.03902439
+Norway,Developed,Europe,2002,78.98780488
+Oman,Developing,Asia,2002,73.022
+Pakistan,Developing,Asia,2002,63.3
+Palau,Developing,Oceania,2002,69.81146341
+Panama,Developing,North America,2002,75.401
+Papua New Guinea,Developing,Oceania,2002,59.722
+Paraguay,Developing,South America,2002,71.023
+Peru,Developing,South America,2002,71.882
+Philippines,Developing,Asia,2002,68.88
+Portugal,Developed,Europe,2002,77.06585366
+Qatar,Developing,Asia,2002,77.762
+Republic of the Congo,Developing,Africa,2002,53.091
+Romania,Developing,Europe,2002,71.0097561
+Russia,Developing,Europe,2002,65.12878049
+Rwanda,Developing,Africa,2002,50.987
+Saint Kitts and Nevis,Developing,North America,2002,71.33658537
+Saint Lucia,Developing,North America,2002,73.648
+Saint Vincent and the Grenadines,Developing,North America,2002,70.977
+Samoa,Developing,Oceania,2002,69.451
+Sao Tome and Principe,Developing,Africa,2002,62.687
+Saudi Arabia,Developing,Asia,2002,72.92
+Senegal,Developing,Africa,2002,58.675
+Serbia,Developing,Europe,2002,72.28536585
+Seychelles,Developing,Africa,2002,71.08780488
+Sierra Leone,Developing,Africa,2002,41.376
+Singapore,Developed,Asia,2002,78.55121951
+Solomon Islands,Developing,Oceania,2002,68.175
+Somalia,Developing,Africa,2002,51.492
+South Africa,Developing,Africa,2002,54.31
+South Korea,Developed,Asia,2002,76.76585366
+South Sudan,Developing,Africa,2002,50.05
+Spain,Developed,Europe,2002,79.56829268
+Sri Lanka,Developing,Asia,2002,73.085
+Sudan,Developing,Africa,2002,59.258
+Suriname,Developing,South America,2002,68.064
+Sweden,Developed,Europe,2002,79.84634146
+Switzerland,Developed,Europe,2002,80.38536585
+Syria,Developing,Asia,2002,73.663
+Tajikistan,Developing,Asia,2002,63.653
+Tanzania,Developing,Africa,2002,52.142
+Thailand,Developing,Asia,2002,71.089
+Timor-Leste,Developing,Asia,2002,60.901
+Togo,Developing,Africa,2002,53.71
+Tonga,Developing,Oceania,2002,69.771
+Trinidad and Tobago,Developing,North America,2002,69.903
+Tunisia,Developing,Africa,2002,73.638
+Turkey,Developing,Asia,2002,71.078
+Turkmenistan,Developing,Asia,2002,64.101
+Uganda,Developing,Africa,2002,48.299
+Ukraine,Developing,Europe,2002,68.27560976
+United Arab Emirates,Developing,Asia,2002,74.758
+United Kingdom,Developed,Europe,2002,78.14390244
+United States,Developed,North America,2002,76.93658537
+Uruguay,Developing,South America,2002,75.152
+Uzbekistan,Developing,Asia,2002,67.613
+Vanuatu,Developing,Oceania,2002,67.793
+Venezuela,Developing,South America,2002,72.466
+Vietnam,Developing,Asia,2002,73.438
+Yemen,Developing,Asia,2002,61.781
+Zambia,Developing,Africa,2002,45.4
+Zimbabwe,Developing,Africa,2002,43.523
+Afghanistan,Developing,Asia,2003,57.271
+Albania,Developing,Europe,2003,74.828
+Algeria,Developing,Africa,2003,72.101
+Angola,Developing,Africa,2003,48.44
+Antigua and Barbuda,Developing,North America,2003,74.613
+Argentina,Developing,South America,2003,74.107
+Armenia,Developing,Asia,2003,72.348
+Australia,Developed,Oceania,2003,80.23902439
+Austria,Developed,Europe,2003,78.63170732
+Azerbaijan,Developing,Asia,2003,67.791
+Bahamas,Developing,North America,2003,71.986
+Bahrain,Developing,Asia,2003,74.999
+Bangladesh,Developing,Asia,2003,66.886
+Barbados,Developing,North America,2003,77.682
+Belarus,Developing,Europe,2003,68.55365854
+Belgium,Developed,Europe,2003,78.12926829
+Belize,Developing,North America,2003,69.511
+Benin,Developing,Africa,2003,56.436
+Bhutan,Developing,Asia,2003,63.624
+Bolivia,Developing,South America,2003,64.21
+Bosnia and Herzegovina,Developing,Europe,2003,74.941
+Botswana,Developing,Africa,2003,50.518
+Brazil,Developing,South America,2003,71.17
+Brunei,Developing,Asia,2003,73.575
+Bulgaria,Developing,Europe,2003,72.06585366
+Burkina Faso,Developing,Africa,2003,51.956
+Burundi,Developing,Africa,2003,51.69
+Cambodia,Developing,Asia,2003,61.241
+Cameroon,Developing,Africa,2003,51.908
+Canada,Developed,North America,2003,79.74146341
+Cape Verde,Developing,Africa,2003,69.932
+Central African Republic,Developing,Africa,2003,44.182
+Chad,Developing,Africa,2003,48.057
+Chile,Developing,South America,2003,77.146
+China,Developing,Asia,2003,72.381
+Colombia,Developing,South America,2003,73.777
+Comoros,Developing,Africa,2003,59.738
+Costa Rica,Developing,North America,2003,77.871
+Croatia,Developing,Europe,2003,74.61390244
+Czech Republic,Developed,Europe,2003,75.17073171
+Denmark,Developed,Europe,2003,77.14390244
+Djibouti,Developing,Africa,2003,57.427
+Dominica,Developing,North America,2003,76.59756098
+Dominican Republic,Developing,North America,2003,70.227
+DR Congo,Developing,Africa,2003,52.144
+Ecuador,Developing,South America,2003,73.641
+Egypt,Developing,Africa,2003,69.116
+El Salvador,Developing,North America,2003,69.68
+Equatorial Guinea,Developing,Africa,2003,54.064
+Eritrea,Developing,Africa,2003,57.191
+Estonia,Developed,Europe,2003,71.31707317
+Eswatini,Developing,Africa,2003,43.372
+Ethiopia,Developing,Africa,2003,54.211
+Fiji,Developing,Oceania,2003,66.152
+Finland,Developed,Europe,2003,78.36829268
+France,Developed,Europe,2003,79.11463415
+Gabon,Developing,Africa,2003,57.759
+Gambia,Developing,Africa,2003,57.159
+Georgia,Developing,Asia,2003,70.349
+Germany,Developed,Europe,2003,78.3804878
+Ghana,Developing,Africa,2003,57.785
+Grenada,Developing,North America,2003,73.023
+Guatemala,Developing,North America,2003,69.092
+Guinea,Developing,Africa,2003,51.901
+Guinea-Bissau,Developing,Africa,2003,51.501
+Guyana,Developing,South America,2003,66.122
+Haiti,Developing,North America,2003,57.959
+Honduras,Developing,North America,2003,71.511
+Hungary,Developing,Europe,2003,72.3
+Iceland,Developed,Europe,2003,80.96341463
+India,Developing,Asia,2003,63.699
+Indonesia,Developing,Asia,2003,66.631
+Iran,Developing,Asia,2003,71.265
+Iraq,Developing,Asia,2003,68.636
+Ireland,Developed,Europe,2003,78.13902439
+Ivory Coast,Developing,Africa,2003,49.572
+Jamaica,Developing,North America,2003,74.142
+Japan,Developed,Asia,2003,81.76
+Jordan,Developing,Asia,2003,72.256
+Kazakhstan,Developing,Asia,2003,65.74
+Kenya,Developing,Africa,2003,52.41
+Kiribati,Developing,Oceania,2003,63.995
+Kuwait,Developing,Asia,2003,73.355
+Kyrgyzstan,Developing,Asia,2003,68.25609756
+Laos,Developing,Asia,2003,60.502
+Lebanon,Developing,Asia,2003,75.969
+Lesotho,Developing,Africa,2003,43.845
+Liberia,Developing,Africa,2003,53.554
+Libya,Developing,Africa,2003,71.466
+Luxembourg,Developed,Europe,2003,77.72682927
+Madagascar,Developing,Africa,2003,60.256
+Malawi,Developing,Africa,2003,46.052
+Malaysia,Developing,Asia,2003,73.17
+Maldives,Developing,Asia,2003,72.399
+Mali,Developing,Africa,2003,50.373
+Marshall Islands,Developing,Oceania,2003,65.23902439
+Mauritania,Developing,Africa,2003,61.018
+Mauritius,Developing,Africa,2003,72.11707317
+Mexico,Developing,North America,2003,75.118
+Micronesia,Developing,Oceania,2003,65.08
+Moldova,Developing,Europe,2003,67.521
+Mongolia,Developing,Asia,2003,64.23
+Montenegro,Developing,Europe,2003,73.31853659
+Morocco,Developing,Africa,2003,70.399
+Mozambique,Developing,Africa,2003,49.889
+Myanmar,Developing,Asia,2003,60.989
+Namibia,Developing,Africa,2003,50.589
+Nepal,Developing,Asia,2003,64.165
+Netherlands,Developed,Europe,2003,78.49268293
+New Zealand,Developed,Oceania,2003,79.14634146
+Nicaragua,Developing,North America,2003,70.64
+Niger,Developing,Africa,2003,51.95
+Nigeria,Developing,Africa,2003,47.242
+North Macedonia,Developing,Europe,2003,73.24146341
+Norway,Developed,Europe,2003,79.3902439
+Oman,Developing,Asia,2003,73.447
+Pakistan,Developing,Asia,2003,63.522
+Palau,Developing,Oceania,2003,69.81146341
+Panama,Developing,North America,2003,75.565
+Papua New Guinea,Developing,Oceania,2003,59.974
+Paraguay,Developing,South America,2003,71.249
+Peru,Developing,South America,2003,72.24
+Philippines,Developing,Asia,2003,68.937
+Portugal,Developed,Europe,2003,77.2195122
+Qatar,Developing,Asia,2003,77.919
+Republic of the Congo,Developing,Africa,2003,53.817
+Romania,Developing,Europe,2003,71.3097561
+Russia,Developing,Europe,2003,65.02756098
+Rwanda,Developing,Africa,2003,52.178
+Saint Kitts and Nevis,Developing,North America,2003,71.33658537
+Saint Lucia,Developing,North America,2003,73.808
+Saint Vincent and the Grenadines,Developing,North America,2003,71.087
+Samoa,Developing,Oceania,2003,69.781
+Sao Tome and Principe,Developing,Africa,2003,63.359
+Saudi Arabia,Developing,Asia,2003,73.051
+Senegal,Developing,Africa,2003,59.259
+Serbia,Developing,Europe,2003,72.43658537
+Seychelles,Developing,Africa,2003,71.02926829
+Sierra Leone,Developing,Africa,2003,42.419
+Singapore,Developed,Asia,2003,79.03902439
+Solomon Islands,Developing,Oceania,2003,68.518
+Somalia,Developing,Africa,2003,51.762
+South Africa,Developing,Africa,2003,53.749
+South Korea,Developed,Asia,2003,77.21463415
+South Sudan,Developing,Africa,2003,50.55
+Spain,Developed,Europe,2003,79.6195122
+Sri Lanka,Developing,Asia,2003,73.799
+Sudan,Developing,Africa,2003,59.67
+Suriname,Developing,South America,2003,68.28
+Sweden,Developed,Europe,2003,80.09512195
+Switzerland,Developed,Europe,2003,80.53658537
+Syria,Developing,Asia,2003,73.967
+Tajikistan,Developing,Asia,2003,64.496
+Tanzania,Developing,Africa,2003,52.866
+Thailand,Developing,Asia,2003,71.389
+Timor-Leste,Developing,Asia,2003,61.888
+Togo,Developing,Africa,2003,53.938
+Tonga,Developing,Oceania,2003,69.803
+Trinidad and Tobago,Developing,North America,2003,70.164
+Tunisia,Developing,Africa,2003,73.842
+Turkey,Developing,Asia,2003,71.559
+Turkmenistan,Developing,Asia,2003,64.386
+Uganda,Developing,Africa,2003,49.421
+Ukraine,Developing,Europe,2003,68.21073171
+United Arab Emirates,Developing,Asia,2003,74.968
+United Kingdom,Developed,Europe,2003,78.44634146
+United States,Developed,North America,2003,77.03658537
+Uruguay,Developing,South America,2003,75.373
+Uzbekistan,Developing,Asia,2003,67.868
+Vanuatu,Developing,Oceania,2003,67.99
+Venezuela,Developing,South America,2003,72.618
+Vietnam,Developing,Asia,2003,73.654
+Yemen,Developing,Asia,2003,62.358
+Zambia,Developing,Africa,2003,46.322
+Zimbabwe,Developing,Africa,2003,43.195
+Afghanistan,Developing,Asia,2004,57.772
+Albania,Developing,Europe,2004,75.039
+Algeria,Developing,Africa,2004,72.594
+Angola,Developing,Africa,2004,49.263
+Antigua and Barbuda,Developing,North America,2004,74.821
+Argentina,Developing,South America,2004,74.28
+Armenia,Developing,Asia,2004,72.513
+Australia,Developed,Oceania,2004,80.4902439
+Austria,Developed,Europe,2004,79.1804878
+Azerbaijan,Developing,Asia,2004,68.249
+Bahamas,Developing,North America,2004,71.988
+Bahrain,Developing,Asia,2004,75.167
+Bangladesh,Developing,Asia,2004,67.331
+Barbados,Developing,North America,2004,77.808
+Belarus,Developing,Europe,2004,68.95609756
+Belgium,Developed,Europe,2004,78.87804878
+Belize,Developing,North America,2004,69.749
+Benin,Developing,Africa,2004,56.887
+Bhutan,Developing,Asia,2004,64.483
+Bolivia,Developing,South America,2004,64.766
+Bosnia and Herzegovina,Developing,Europe,2004,75.068
+Botswana,Developing,Africa,2004,51.15
+Brazil,Developing,South America,2004,71.531
+Brunei,Developing,Asia,2004,73.801
+Bulgaria,Developing,Europe,2004,72.56341463
+Burkina Faso,Developing,Africa,2004,52.602
+Burundi,Developing,Africa,2004,52.547
+Cambodia,Developing,Asia,2004,62.186
+Cameroon,Developing,Africa,2004,52.321
+Canada,Developed,North America,2004,79.89268293
+Cape Verde,Developing,Africa,2004,70.219
+Central African Republic,Developing,Africa,2004,44.413
+Chad,Developing,Africa,2004,48.27
+Chile,Developing,South America,2004,77.391
+China,Developing,Asia,2004,72.689
+Colombia,Developing,South America,2004,74.026
+Comoros,Developing,Africa,2004,59.904
+Costa Rica,Developing,North America,2004,77.996
+Croatia,Developing,Europe,2004,75.5202439
+Czech Republic,Developed,Europe,2004,75.72195122
+Denmark,Developed,Europe,2004,77.49268293
+Djibouti,Developing,Africa,2004,57.682
+Dominica,Developing,North America,2004,76.59756098
+Dominican Republic,Developing,North America,2004,70.499
+DR Congo,Developing,Africa,2004,52.917
+Ecuador,Developing,South America,2004,73.887
+Egypt,Developing,Africa,2004,69.271
+El Salvador,Developing,North America,2004,69.908
+Equatorial Guinea,Developing,Africa,2004,54.263
+Eritrea,Developing,Africa,2004,57.932
+Estonia,Developed,Europe,2004,71.9097561
+Eswatini,Developing,Africa,2004,42.731
+Ethiopia,Developing,Africa,2004,55.174
+Fiji,Developing,Oceania,2004,66.247
+Finland,Developed,Europe,2004,78.71463415
+France,Developed,Europe,2004,80.16341463
+Gabon,Developing,Africa,2004,57.885
+Gambia,Developing,Africa,2004,57.553
+Georgia,Developing,Asia,2004,70.451
+Germany,Developed,Europe,2004,78.6804878
+Ghana,Developing,Africa,2004,58.225
+Grenada,Developing,North America,2004,73.088
+Guatemala,Developing,North America,2004,69.437
+Guinea,Developing,Africa,2004,52.499
+Guinea-Bissau,Developing,Africa,2004,51.883
+Guyana,Developing,South America,2004,66.412
+Haiti,Developing,North America,2004,58.292
+Honduras,Developing,North America,2004,71.77
+Hungary,Developing,Europe,2004,72.64878049
+Iceland,Developed,Europe,2004,80.99756098
+India,Developing,Asia,2004,64.095
+Indonesia,Developing,Asia,2004,66.969
+Iran,Developing,Asia,2004,71.592
+Iraq,Developing,Asia,2004,68.437
+Ireland,Developed,Europe,2004,78.53902439
+Ivory Coast,Developing,Africa,2004,49.788
+Jamaica,Developing,North America,2004,74.146
+Japan,Developed,Asia,2004,82.0302439
+Jordan,Developing,Asia,2004,72.427
+Kazakhstan,Developing,Asia,2004,66.06
+Kenya,Developing,Africa,2004,53.475
+Kiribati,Developing,Oceania,2004,64.242
+Kuwait,Developing,Asia,2004,73.439
+Kyrgyzstan,Developing,Asia,2004,68.15365854
+Laos,Developing,Asia,2004,61.065
+Lebanon,Developing,Asia,2004,76.432
+Lesotho,Developing,Africa,2004,43.083
+Liberia,Developing,Africa,2004,54.422
+Libya,Developing,Africa,2004,71.693
+Luxembourg,Developed,Europe,2004,79.12195122
+Madagascar,Developing,Africa,2004,60.752
+Malawi,Developing,Africa,2004,46.823
+Malaysia,Developing,Asia,2004,73.364
+Maldives,Developing,Asia,2004,73.034
+Mali,Developing,Africa,2004,51.224
+Marshall Islands,Developing,Oceania,2004,65.23902439
+Mauritania,Developing,Africa,2004,61.17
+Mauritius,Developing,Africa,2004,72.26585366
+Mexico,Developing,North America,2004,75.243
+Micronesia,Developing,Oceania,2004,65.282
+Moldova,Developing,Europe,2004,67.665
+Mongolia,Developing,Asia,2004,64.671
+Montenegro,Developing,Europe,2004,73.42926829
+Morocco,Developing,Africa,2004,71.067
+Mozambique,Developing,Africa,2004,50.143
+Myanmar,Developing,Asia,2004,61.294
+Namibia,Developing,Africa,2004,50.6
+Nepal,Developing,Asia,2004,64.729
+Netherlands,Developed,Europe,2004,79.09512195
+New Zealand,Developed,Oceania,2004,79.54878049
+Nicaragua,Developing,North America,2004,70.933
+Niger,Developing,Africa,2004,52.668
+Nigeria,Developing,Africa,2004,47.72
+North Macedonia,Developing,Europe,2004,73.59756098
+Norway,Developed,Europe,2004,79.84146341
+Oman,Developing,Asia,2004,73.851
+Pakistan,Developing,Asia,2004,63.736
+Palau,Developing,Oceania,2004,69.81146341
+Panama,Developing,North America,2004,75.728
+Papua New Guinea,Developing,Oceania,2004,60.245
+Paraguay,Developing,South America,2004,71.464
+Peru,Developing,South America,2004,72.581
+Philippines,Developing,Asia,2004,69.013
+Portugal,Developed,Europe,2004,77.67073171
+Qatar,Developing,Asia,2004,78.083
+Republic of the Congo,Developing,Africa,2004,54.667
+Romania,Developing,Europe,2004,71.56097561
+Russia,Developing,Europe,2004,65.47097561
+Rwanda,Developing,Africa,2004,53.595
+Saint Kitts and Nevis,Developing,North America,2004,71.33658537
+Saint Lucia,Developing,North America,2004,73.966
+Saint Vincent and the Grenadines,Developing,North America,2004,71.208
+Samoa,Developing,Oceania,2004,70.089
+Sao Tome and Principe,Developing,Africa,2004,64.02
+Saudi Arabia,Developing,Asia,2004,73.159
+Senegal,Developing,Africa,2004,59.912
+Serbia,Developing,Europe,2004,72.68292683
+Seychelles,Developing,Africa,2004,72.66097561
+Sierra Leone,Developing,Africa,2004,43.467
+Singapore,Developed,Asia,2004,79.4902439
+Solomon Islands,Developing,Oceania,2004,68.845
+Somalia,Developing,Africa,2004,52.043
+South Africa,Developing,Africa,2004,53.444
+South Korea,Developed,Asia,2004,77.66585366
+South Sudan,Developing,Africa,2004,51.095
+Spain,Developed,Europe,2004,79.87073171
+Sri Lanka,Developing,Asia,2004,74.337
+Sudan,Developing,Africa,2004,60.092
+Suriname,Developing,South America,2004,68.555
+Sweden,Developed,Europe,2004,80.49756098
+Switzerland,Developed,Europe,2004,81.08780488
+Syria,Developing,Asia,2004,74.25
+Tajikistan,Developing,Asia,2004,65.314
+Tanzania,Developing,Africa,2004,53.602
+Thailand,Developing,Asia,2004,71.728
+Timor-Leste,Developing,Asia,2004,62.893
+Togo,Developing,Africa,2004,54.234
+Tonga,Developing,Oceania,2004,69.822
+Trinidad and Tobago,Developing,North America,2004,70.428
+Tunisia,Developing,Africa,2004,74.034
+Turkey,Developing,Asia,2004,72.004
+Turkmenistan,Developing,Asia,2004,64.693
+Uganda,Developing,Africa,2004,50.554
+Ukraine,Developing,Europe,2004,68.18536585
+United Arab Emirates,Developing,Asia,2004,75.174
+United Kingdom,Developed,Europe,2004,78.74634146
+United States,Developed,North America,2004,77.48780488
+Uruguay,Developing,South America,2004,75.599
+Uzbekistan,Developing,Asia,2004,68.135
+Vanuatu,Developing,Oceania,2004,68.176
+Venezuela,Developing,South America,2004,72.746
+Vietnam,Developing,Asia,2004,73.875
+Yemen,Developing,Asia,2004,62.931
+Zambia,Developing,Africa,2004,47.354
+Zimbabwe,Developing,Africa,2004,43.065
+Afghanistan,Developing,Asia,2005,58.29
+Albania,Developing,Europe,2005,75.228
+Algeria,Developing,Africa,2005,73.072
+Angola,Developing,Africa,2005,50.165
+Antigua and Barbuda,Developing,North America,2005,75.019
+Argentina,Developing,South America,2005,74.451
+Armenia,Developing,Asia,2005,72.626
+Australia,Developed,Oceania,2005,80.84146341
+Austria,Developed,Europe,2005,79.33170732
+Azerbaijan,Developing,Asia,2005,68.747
+Bahamas,Developing,North America,2005,71.987
+Bahrain,Developing,Asia,2005,75.326
+Bangladesh,Developing,Asia,2005,67.773
+Barbados,Developing,North America,2005,77.915
+Belarus,Developing,Europe,2005,68.85121951
+Belgium,Developed,Europe,2005,78.9804878
+Belize,Developing,North America,2005,69.998
+Benin,Developing,Africa,2005,57.355
+Bhutan,Developing,Asia,2005,65.289
+Bolivia,Developing,South America,2005,65.312
+Bosnia and Herzegovina,Developing,Europe,2005,75.198
+Botswana,Developing,Africa,2005,52.13
+Brazil,Developing,South America,2005,71.896
+Brunei,Developing,Asia,2005,74.006
+Bulgaria,Developing,Europe,2005,72.56097561
+Burkina Faso,Developing,Africa,2005,53.31
+Burundi,Developing,Africa,2005,53.369
+Cambodia,Developing,Asia,2005,63.088
+Cameroon,Developing,Africa,2005,52.76
+Canada,Developed,North America,2005,80.19268293
+Cape Verde,Developing,Africa,2005,70.424
+Central African Republic,Developing,Africa,2005,44.744
+Chad,Developing,Africa,2005,48.549
+Chile,Developing,South America,2005,77.63
+China,Developing,Asia,2005,72.985
+Colombia,Developing,South America,2005,74.265
+Comoros,Developing,Africa,2005,60.126
+Costa Rica,Developing,North America,2005,78.117
+Croatia,Developing,Europe,2005,75.24463415
+Czech Republic,Developed,Europe,2005,75.92439024
+Denmark,Developed,Europe,2005,77.84390244
+Djibouti,Developing,Africa,2005,57.991
+Dominica,Developing,North America,2005,76.59756098
+Dominican Republic,Developing,North America,2005,70.771
+DR Congo,Developing,Africa,2005,53.675
+Ecuador,Developing,South America,2005,74.112
+Egypt,Developing,Africa,2005,69.434
+El Salvador,Developing,North America,2005,70.124
+Equatorial Guinea,Developing,Africa,2005,54.449
+Eritrea,Developing,Africa,2005,58.707
+Estonia,Developed,Europe,2005,72.56829268
+Eswatini,Developing,Africa,2005,42.518
+Ethiopia,Developing,Africa,2005,56.223
+Fiji,Developing,Oceania,2005,66.313
+Finland,Developed,Europe,2005,78.81707317
+France,Developed,Europe,2005,80.16341463
+Gabon,Developing,Africa,2005,58.181
+Gambia,Developing,Africa,2005,57.939
+Georgia,Developing,Asia,2005,70.538
+Germany,Developed,Europe,2005,78.93170732
+Ghana,Developing,Africa,2005,58.719
+Grenada,Developing,North America,2005,73.123
+Guatemala,Developing,North America,2005,69.762
+Guinea,Developing,Africa,2005,53.238
+Guinea-Bissau,Developing,Africa,2005,52.275
+Guyana,Developing,South America,2005,66.694
+Haiti,Developing,North America,2005,58.652
+Honduras,Developing,North America,2005,72.026
+Hungary,Developing,Europe,2005,72.64878049
+Iceland,Developed,Europe,2005,81.50243902
+India,Developing,Asia,2005,64.5
+Indonesia,Developing,Asia,2005,67.334
+Iran,Developing,Asia,2005,71.917
+Iraq,Developing,Asia,2005,68.266
+Ireland,Developed,Europe,2005,78.94390244
+Ivory Coast,Developing,Africa,2005,50.12
+Jamaica,Developing,North America,2005,74.148
+Japan,Developed,Asia,2005,81.92512195
+Jordan,Developing,Asia,2005,72.595
+Kazakhstan,Developing,Asia,2005,65.86
+Kenya,Developing,Africa,2005,54.732
+Kiribati,Developing,Oceania,2005,64.478
+Kuwait,Developing,Asia,2005,73.538
+Kyrgyzstan,Developing,Asia,2005,67.95609756
+Laos,Developing,Asia,2005,61.625
+Lebanon,Developing,Asia,2005,76.865
+Lesotho,Developing,Africa,2005,42.658
+Liberia,Developing,Africa,2005,55.393
+Libya,Developing,Africa,2005,71.902
+Luxembourg,Developed,Europe,2005,79.43170732
+Madagascar,Developing,Africa,2005,61.212
+Malawi,Developing,Africa,2005,47.844
+Malaysia,Developing,Asia,2005,73.555
+Maldives,Developing,Asia,2005,73.612
+Mali,Developing,Africa,2005,52.057
+Marshall Islands,Developing,Oceania,2005,65.23902439
+Mauritania,Developing,Africa,2005,61.349
+Mauritius,Developing,Africa,2005,72.43219512
+Mexico,Developing,North America,2005,75.3
+Micronesia,Developing,Oceania,2005,65.489
+Moldova,Developing,Europe,2005,67.82
+Mongolia,Developing,Asia,2005,65.103
+Montenegro,Developing,Europe,2005,73.98292683
+Morocco,Developing,Africa,2005,71.746
+Mozambique,Developing,Africa,2005,50.387
+Myanmar,Developing,Asia,2005,61.607
+Namibia,Developing,Africa,2005,50.931
+Nepal,Developing,Asia,2005,65.264
+Netherlands,Developed,Europe,2005,79.34634146
+New Zealand,Developed,Oceania,2005,79.85121951
+Nicaragua,Developing,North America,2005,71.195
+Niger,Developing,Africa,2005,53.411
+Nigeria,Developing,Africa,2005,48.252
+North Macedonia,Developing,Europe,2005,73.69756098
+Norway,Developed,Europe,2005,80.04146341
+Oman,Developing,Asia,2005,74.23
+Pakistan,Developing,Asia,2005,63.951
+Palau,Developing,Oceania,2005,69.12926829
+Panama,Developing,North America,2005,75.892
+Papua New Guinea,Developing,Oceania,2005,60.534
+Paraguay,Developing,South America,2005,71.667
+Peru,Developing,South America,2005,72.908
+Philippines,Developing,Asia,2005,69.112
+Portugal,Developed,Europe,2005,78.07073171
+Qatar,Developing,Asia,2005,78.252
+Republic of the Congo,Developing,Africa,2005,55.6
+Romania,Developing,Europe,2005,71.91219512
+Russia,Developing,Europe,2005,65.5297561
+Rwanda,Developing,Africa,2005,55.254
+Saint Kitts and Nevis,Developing,North America,2005,71.33658537
+Saint Lucia,Developing,North America,2005,74.122
+Saint Vincent and the Grenadines,Developing,North America,2005,71.331
+Samoa,Developing,Oceania,2005,70.374
+Sao Tome and Principe,Developing,Africa,2005,64.659
+Saudi Arabia,Developing,Asia,2005,73.256
+Senegal,Developing,Africa,2005,60.62
+Serbia,Developing,Europe,2005,72.83414634
+Seychelles,Developing,Africa,2005,72.13170732
+Sierra Leone,Developing,Africa,2005,44.502
+Singapore,Developed,Asia,2005,79.9902439
+Solomon Islands,Developing,Oceania,2005,69.158
+Somalia,Developing,Africa,2005,52.346
+South Africa,Developing,Africa,2005,53.447
+South Korea,Developed,Asia,2005,78.16829268
+South Sudan,Developing,Africa,2005,51.686
+Spain,Developed,Europe,2005,80.17073171
+Sri Lanka,Developing,Asia,2005,74.695
+Sudan,Developing,Africa,2005,60.525
+Suriname,Developing,South America,2005,68.877
+Sweden,Developed,Europe,2005,80.54634146
+Switzerland,Developed,Europe,2005,81.23658537
+Syria,Developing,Asia,2005,74.43
+Tajikistan,Developing,Asia,2005,66.08
+Tanzania,Developing,Africa,2005,54.349
+Thailand,Developing,Asia,2005,72.099
+Timor-Leste,Developing,Asia,2005,63.882
+Togo,Developing,Africa,2005,54.602
+Tonga,Developing,Oceania,2005,69.836
+Trinidad and Tobago,Developing,North America,2005,70.691
+Tunisia,Developing,Africa,2005,74.217
+Turkey,Developing,Asia,2005,72.424
+Turkmenistan,Developing,Asia,2005,65.017
+Uganda,Developing,Africa,2005,51.676
+Ukraine,Developing,Europe,2005,67.95682927
+United Arab Emirates,Developing,Asia,2005,75.376
+United Kingdom,Developed,Europe,2005,79.04878049
+United States,Developed,North America,2005,77.48780488
+Uruguay,Developing,South America,2005,75.826
+Uzbekistan,Developing,Asia,2005,68.407
+Vanuatu,Developing,Oceania,2005,68.35
+Venezuela,Developing,South America,2005,72.852
+Vietnam,Developing,Asia,2005,74.092
+Yemen,Developing,Asia,2005,63.481
+Zambia,Developing,Africa,2005,48.496
+Zimbabwe,Developing,Africa,2005,43.241
+Afghanistan,Developing,Asia,2006,58.826
+Albania,Developing,Europe,2006,75.423
+Algeria,Developing,Africa,2006,73.521
+Angola,Developing,Africa,2006,51.143
+Antigua and Barbuda,Developing,North America,2006,75.204
+Argentina,Developing,South America,2006,74.62
+Armenia,Developing,Asia,2006,72.716
+Australia,Developed,Oceania,2006,81.04146341
+Austria,Developed,Europe,2006,79.8804878
+Azerbaijan,Developing,Asia,2006,69.259
+Bahamas,Developing,North America,2006,71.988
+Bahrain,Developing,Asia,2006,75.478
+Bangladesh,Developing,Asia,2006,68.213
+Barbados,Developing,North America,2006,78.009
+Belarus,Developing,Europe,2006,69.40487805
+Belgium,Developed,Europe,2006,79.3804878
+Belize,Developing,North America,2006,70.286
+Benin,Developing,Africa,2006,57.817
+Bhutan,Developing,Asia,2006,66.031
+Bolivia,Developing,South America,2006,65.853
+Bosnia and Herzegovina,Developing,Europe,2006,75.342
+Botswana,Developing,Africa,2006,53.435
+Brazil,Developing,South America,2006,72.26
+Brunei,Developing,Asia,2006,74.189
+Bulgaria,Developing,Europe,2006,72.61219512
+Burkina Faso,Developing,Africa,2006,54.063
+Burundi,Developing,Africa,2006,54.163
+Cambodia,Developing,Asia,2006,63.927
+Cameroon,Developing,Africa,2006,53.215
+Canada,Developed,North America,2006,80.34390244
+Cape Verde,Developing,Africa,2006,70.565
+Central African Republic,Developing,Africa,2006,45.158
+Chad,Developing,Africa,2006,48.907
+Chile,Developing,South America,2006,77.865
+China,Developing,Asia,2006,73.271
+Colombia,Developing,South America,2006,74.5
+Comoros,Developing,Africa,2006,60.407
+Costa Rica,Developing,North America,2006,78.239
+Croatia,Developing,Europe,2006,75.83682927
+Czech Republic,Developed,Europe,2006,76.52439024
+Denmark,Developed,Europe,2006,78.09512195
+Djibouti,Developing,Africa,2006,58.34
+Dominica,Developing,North America,2006,76.59756098
+Dominican Republic,Developing,North America,2006,71.041
+DR Congo,Developing,Africa,2006,54.401
+Ecuador,Developing,South America,2006,74.319
+Egypt,Developing,Africa,2006,69.608
+El Salvador,Developing,North America,2006,70.333
+Equatorial Guinea,Developing,Africa,2006,54.638
+Eritrea,Developing,Africa,2006,59.487
+Estonia,Developed,Europe,2006,72.69146341
+Eswatini,Developing,Africa,2006,42.733
+Ethiopia,Developing,Africa,2006,57.334
+Fiji,Developing,Oceania,2006,66.362
+Finland,Developed,Europe,2006,79.21463415
+France,Developed,Europe,2006,80.81219512
+Gabon,Developing,Africa,2006,58.641
+Gambia,Developing,Africa,2006,58.313
+Georgia,Developing,Asia,2006,70.635
+Germany,Developed,Europe,2006,79.13170732
+Ghana,Developing,Africa,2006,59.234
+Grenada,Developing,North America,2006,73.125
+Guatemala,Developing,North America,2006,70.082
+Guinea,Developing,Africa,2006,54.052
+Guinea-Bissau,Developing,Africa,2006,52.691
+Guyana,Developing,South America,2006,66.972
+Haiti,Developing,North America,2006,59.028
+Honduras,Developing,North America,2006,72.285
+Hungary,Developing,Europe,2006,73.09756098
+Iceland,Developed,Europe,2006,81.15853659
+India,Developing,Asia,2006,64.918
+Indonesia,Developing,Asia,2006,67.717
+Iran,Developing,Asia,2006,72.257
+Iraq,Developing,Asia,2006,68.157
+Ireland,Developed,Europe,2006,79.24146341
+Ivory Coast,Developing,Africa,2006,50.561
+Jamaica,Developing,North America,2006,74.143
+Japan,Developed,Asia,2006,82.32195122
+Jordan,Developing,Asia,2006,72.763
+Kazakhstan,Developing,Asia,2006,66.15
+Kenya,Developing,Africa,2006,56.093
+Kiribati,Developing,Oceania,2006,64.712
+Kuwait,Developing,Asia,2006,73.66
+Kyrgyzstan,Developing,Asia,2006,67.69512195
+Laos,Developing,Asia,2006,62.182
+Lebanon,Developing,Asia,2006,77.26
+Lesotho,Developing,Africa,2006,42.595
+Liberia,Developing,Africa,2006,56.4
+Libya,Developing,Africa,2006,72.063
+Luxembourg,Developed,Europe,2006,79.28780488
+Madagascar,Developing,Africa,2006,61.65
+Malawi,Developing,Africa,2006,49.118
+Malaysia,Developing,Asia,2006,73.744
+Maldives,Developing,Asia,2006,74.138
+Mali,Developing,Africa,2006,52.839
+Marshall Islands,Developing,Oceania,2006,65.23902439
+Mauritania,Developing,Africa,2006,61.552
+Mauritius,Developing,Africa,2006,72.43219512
+Mexico,Developing,North America,2006,75.296
+Micronesia,Developing,Oceania,2006,65.697
+Moldova,Developing,Europe,2006,68.022
+Mongolia,Developing,Asia,2006,65.538
+Montenegro,Developing,Europe,2006,73.83902439
+Morocco,Developing,Africa,2006,72.403
+Mozambique,Developing,Africa,2006,50.641
+Myanmar,Developing,Asia,2006,61.938
+Namibia,Developing,Africa,2006,51.609
+Nepal,Developing,Asia,2006,65.773
+Netherlands,Developed,Europe,2006,79.69756098
+New Zealand,Developed,Oceania,2006,80.04878049
+Nicaragua,Developing,North America,2006,71.436
+Niger,Developing,Africa,2006,54.18
+Nigeria,Developing,Africa,2006,48.812
+North Macedonia,Developing,Europe,2006,73.89512195
+Norway,Developed,Europe,2006,80.34390244
+Oman,Developing,Asia,2006,74.577
+Pakistan,Developing,Asia,2006,64.176
+Palau,Developing,Oceania,2006,69.81146341
+Panama,Developing,North America,2006,76.06
+Papua New Guinea,Developing,Oceania,2006,60.836
+Paraguay,Developing,South America,2006,71.862
+Peru,Developing,South America,2006,73.222
+Philippines,Developing,Asia,2006,69.233
+Portugal,Developed,Europe,2006,78.4195122
+Qatar,Developing,Asia,2006,78.425
+Republic of the Congo,Developing,Africa,2006,56.573
+Romania,Developing,Europe,2006,72.16341463
+Russia,Developing,Europe,2006,66.72756098
+Rwanda,Developing,Africa,2006,57.083
+Saint Kitts and Nevis,Developing,North America,2006,71.33658537
+Saint Lucia,Developing,North America,2006,74.276
+Saint Vincent and the Grenadines,Developing,North America,2006,71.449
+Samoa,Developing,Oceania,2006,70.642
+Sao Tome and Principe,Developing,Africa,2006,65.27
+Saudi Arabia,Developing,Asia,2006,73.355
+Senegal,Developing,Africa,2006,61.365
+Serbia,Developing,Europe,2006,73.38536585
+Seychelles,Developing,Africa,2006,72.21707317
+Sierra Leone,Developing,Africa,2006,45.517
+Singapore,Developed,Asia,2006,80.14146341
+Solomon Islands,Developing,Oceania,2006,69.462
+Somalia,Developing,Africa,2006,52.669
+South Africa,Developing,Africa,2006,53.795
+South Korea,Developed,Asia,2006,78.66829268
+South Sudan,Developing,Africa,2006,52.315
+Spain,Developed,Europe,2006,80.82195122
+Sri Lanka,Developing,Asia,2006,74.904
+Sudan,Developing,Africa,2006,60.969
+Suriname,Developing,South America,2006,69.227
+Sweden,Developed,Europe,2006,80.74878049
+Switzerland,Developed,Europe,2006,81.4902439
+Syria,Developing,Asia,2006,74.412
+Tajikistan,Developing,Asia,2006,66.771
+Tanzania,Developing,Africa,2006,55.119
+Thailand,Developing,Asia,2006,72.499
+Timor-Leste,Developing,Asia,2006,64.803
+Togo,Developing,Africa,2006,55.052
+Tonga,Developing,Oceania,2006,69.852
+Trinidad and Tobago,Developing,North America,2006,70.952
+Tunisia,Developing,Africa,2006,74.391
+Turkey,Developing,Asia,2006,72.83
+Turkmenistan,Developing,Asia,2006,65.354
+Uganda,Developing,Africa,2006,52.784
+Ukraine,Developing,Europe,2006,68.07756098
+United Arab Emirates,Developing,Asia,2006,75.573
+United Kingdom,Developed,Europe,2006,79.24878049
+United States,Developed,North America,2006,77.68780488
+Uruguay,Developing,South America,2006,76.046
+Uzbekistan,Developing,Asia,2006,68.676
+Vanuatu,Developing,Oceania,2006,68.515
+Venezuela,Developing,South America,2006,72.938
+Vietnam,Developing,Asia,2006,74.295
+Yemen,Developing,Asia,2006,63.997
+Zambia,Developing,Africa,2006,49.757
+Zimbabwe,Developing,Africa,2006,43.853
+Afghanistan,Developing,Asia,2007,59.375
+Albania,Developing,Europe,2007,75.646
+Algeria,Developing,Africa,2007,73.936
+Angola,Developing,Africa,2007,52.177
+Antigua and Barbuda,Developing,North America,2007,75.376
+Argentina,Developing,South America,2007,74.787
+Armenia,Developing,Asia,2007,72.815
+Australia,Developed,Oceania,2007,81.29268293
+Austria,Developed,Europe,2007,80.1804878
+Azerbaijan,Developing,Asia,2007,69.752
+Bahamas,Developing,North America,2007,71.998
+Bahrain,Developing,Asia,2007,75.625
+Bangladesh,Developing,Asia,2007,68.648
+Barbados,Developing,North America,2007,78.097
+Belarus,Developing,Europe,2007,70.20731707
+Belgium,Developed,Europe,2007,79.78292683
+Belize,Developing,North America,2007,70.636
+Benin,Developing,Africa,2007,58.255
+Bhutan,Developing,Asia,2007,66.709
+Bolivia,Developing,South America,2007,66.395
+Bosnia and Herzegovina,Developing,Europe,2007,75.498
+Botswana,Developing,Africa,2007,54.983
+Brazil,Developing,South America,2007,72.618
+Brunei,Developing,Asia,2007,74.351
+Bulgaria,Developing,Europe,2007,72.66341463
+Burkina Faso,Developing,Africa,2007,54.841
+Burundi,Developing,Africa,2007,54.944
+Cambodia,Developing,Asia,2007,64.697
+Cameroon,Developing,Africa,2007,53.681
+Canada,Developed,North America,2007,80.54390244
+Cape Verde,Developing,Africa,2007,70.676
+Central African Republic,Developing,Africa,2007,45.636
+Chad,Developing,Africa,2007,49.335
+Chile,Developing,South America,2007,78.099
+China,Developing,Asia,2007,73.553
+Colombia,Developing,South America,2007,74.732
+Comoros,Developing,Africa,2007,60.734
+Costa Rica,Developing,North America,2007,78.362
+Croatia,Developing,Europe,2007,75.70560976
+Czech Republic,Developed,Europe,2007,76.72439024
+Denmark,Developed,Europe,2007,78.19512195
+Djibouti,Developing,Africa,2007,58.719
+Dominica,Developing,North America,2007,76.59756098
+Dominican Republic,Developing,North America,2007,71.304
+DR Congo,Developing,Africa,2007,55.091
+Ecuador,Developing,South America,2007,74.514
+Egypt,Developing,Africa,2007,69.788
+El Salvador,Developing,North America,2007,70.542
+Equatorial Guinea,Developing,Africa,2007,54.842
+Eritrea,Developing,Africa,2007,60.243
+Estonia,Developed,Europe,2007,72.81463415
+Eswatini,Developing,Africa,2007,43.308
+Ethiopia,Developing,Africa,2007,58.467
+Fiji,Developing,Oceania,2007,66.413
+Finland,Developed,Europe,2007,79.26341463
+France,Developed,Europe,2007,81.11219512
+Gabon,Developing,Africa,2007,59.229
+Gambia,Developing,Africa,2007,58.671
+Georgia,Developing,Asia,2007,70.765
+Germany,Developed,Europe,2007,79.53414634
+Ghana,Developing,Africa,2007,59.741
+Grenada,Developing,North America,2007,73.096
+Guatemala,Developing,North America,2007,70.409
+Guinea,Developing,Africa,2007,54.864
+Guinea-Bissau,Developing,Africa,2007,53.136
+Guyana,Developing,South America,2007,67.247
+Haiti,Developing,North America,2007,59.408
+Honduras,Developing,North America,2007,72.544
+Hungary,Developing,Europe,2007,73.15121951
+Iceland,Developed,Europe,2007,81.45365854
+India,Developing,Asia,2007,65.35
+Indonesia,Developing,Asia,2007,68.105
+Iran,Developing,Asia,2007,72.626
+Iraq,Developing,Asia,2007,68.13
+Ireland,Developed,Europe,2007,79.64146341
+Ivory Coast,Developing,Africa,2007,51.091
+Jamaica,Developing,North America,2007,74.129
+Japan,Developed,Asia,2007,82.50707317
+Jordan,Developing,Asia,2007,72.931
+Kazakhstan,Developing,Asia,2007,66.34
+Kenya,Developing,Africa,2007,57.463
+Kiribati,Developing,Oceania,2007,64.953
+Kuwait,Developing,Asia,2007,73.807
+Kyrgyzstan,Developing,Asia,2007,67.89512195
+Laos,Developing,Asia,2007,62.731
+Lebanon,Developing,Asia,2007,77.609
+Lesotho,Developing,Africa,2007,42.854
+Liberia,Developing,Africa,2007,57.365
+Libya,Developing,Africa,2007,72.155
+Luxembourg,Developed,Europe,2007,79.38292683
+Madagascar,Developing,Africa,2007,62.079
+Malawi,Developing,Africa,2007,50.595
+Malaysia,Developing,Asia,2007,73.931
+Maldives,Developing,Asia,2007,74.621
+Mali,Developing,Africa,2007,53.553
+Marshall Islands,Developing,Oceania,2007,65.23902439
+Mauritania,Developing,Africa,2007,61.776
+Mauritius,Developing,Africa,2007,72.57073171
+Mexico,Developing,North America,2007,75.255
+Micronesia,Developing,Oceania,2007,65.901
+Moldova,Developing,Europe,2007,68.302
+Mongolia,Developing,Asia,2007,65.985
+Montenegro,Developing,Europe,2007,74.33902439
+Morocco,Developing,Africa,2007,73.009
+Mozambique,Developing,Africa,2007,50.934
+Myanmar,Developing,Asia,2007,62.294
+Namibia,Developing,Africa,2007,52.593
+Nepal,Developing,Asia,2007,66.26
+Netherlands,Developed,Europe,2007,80.09756098
+New Zealand,Developed,Oceania,2007,80.15121951
+Nicaragua,Developing,North America,2007,71.673
+Niger,Developing,Africa,2007,54.968
+Nigeria,Developing,Africa,2007,49.373
+North Macedonia,Developing,Europe,2007,73.8
+Norway,Developed,Europe,2007,80.39512195
+Oman,Developing,Asia,2007,74.893
+Pakistan,Developing,Asia,2007,64.42
+Palau,Developing,Oceania,2007,69.81146341
+Panama,Developing,North America,2007,76.234
+Papua New Guinea,Developing,Oceania,2007,61.141
+Paraguay,Developing,South America,2007,72.055
+Peru,Developing,South America,2007,73.528
+Philippines,Developing,Asia,2007,69.37
+Portugal,Developed,Europe,2007,78.32195122
+Qatar,Developing,Asia,2007,78.601
+Republic of the Congo,Developing,Africa,2007,57.541
+Romania,Developing,Europe,2007,72.56585366
+Russia,Developing,Europe,2007,67.58682927
+Rwanda,Developing,Africa,2007,58.915
+Saint Kitts and Nevis,Developing,North America,2007,71.33658537
+Saint Lucia,Developing,North America,2007,74.426
+Saint Vincent and the Grenadines,Developing,North America,2007,71.554
+Samoa,Developing,Oceania,2007,70.901
+Sao Tome and Principe,Developing,Africa,2007,65.854
+Saudi Arabia,Developing,Asia,2007,73.467
+Senegal,Developing,Africa,2007,62.126
+Serbia,Developing,Europe,2007,73.63170732
+Seychelles,Developing,Africa,2007,73.14390244
+Sierra Leone,Developing,Africa,2007,46.52
+Singapore,Developed,Asia,2007,80.44146341
+Solomon Islands,Developing,Oceania,2007,69.762
+Somalia,Developing,Africa,2007,52.998
+South Africa,Developing,Africa,2007,54.452
+South Korea,Developed,Asia,2007,79.1195122
+South Sudan,Developing,Africa,2007,52.96
+Spain,Developed,Europe,2007,80.87317073
+Sri Lanka,Developing,Asia,2007,75.037
+Sudan,Developing,Africa,2007,61.422
+Suriname,Developing,South America,2007,69.579
+Sweden,Developed,Europe,2007,80.9
+Switzerland,Developed,Europe,2007,81.74146341
+Syria,Developing,Asia,2007,74.152
+Tajikistan,Developing,Asia,2007,67.382
+Tanzania,Developing,Africa,2007,55.926
+Thailand,Developing,Asia,2007,72.916
+Timor-Leste,Developing,Asia,2007,65.61
+Togo,Developing,Africa,2007,55.581
+Tonga,Developing,Oceania,2007,69.878
+Trinidad and Tobago,Developing,North America,2007,71.21
+Tunisia,Developing,Africa,2007,74.558
+Turkey,Developing,Asia,2007,73.235
+Turkmenistan,Developing,Asia,2007,65.695
+Uganda,Developing,Africa,2007,53.887
+Ukraine,Developing,Europe,2007,68.22219512
+United Arab Emirates,Developing,Asia,2007,75.767
+United Kingdom,Developed,Europe,2007,79.44878049
+United States,Developed,North America,2007,77.98780488
+Uruguay,Developing,South America,2007,76.251
+Uzbekistan,Developing,Asia,2007,68.939
+Vanuatu,Developing,Oceania,2007,68.672
+Venezuela,Developing,South America,2007,73.01
+Vietnam,Developing,Asia,2007,74.474
+Yemen,Developing,Asia,2007,64.47
+Zambia,Developing,Africa,2007,51.134
+Zimbabwe,Developing,Africa,2007,44.947
+Afghanistan,Developing,Asia,2008,59.93
+Albania,Developing,Europe,2008,75.912
+Algeria,Developing,Africa,2008,74.311
+Angola,Developing,Africa,2008,53.243
+Antigua and Barbuda,Developing,North America,2008,75.535
+Argentina,Developing,South America,2008,74.952
+Armenia,Developing,Asia,2008,72.946
+Australia,Developed,Oceania,2008,81.39512195
+Austria,Developed,Europe,2008,80.43170732
+Azerbaijan,Developing,Asia,2008,70.201
+Bahamas,Developing,North America,2008,72.022
+Bahrain,Developing,Asia,2008,75.77
+Bangladesh,Developing,Asia,2008,69.072
+Barbados,Developing,North America,2008,78.184
+Belarus,Developing,Europe,2008,70.45609756
+Belgium,Developed,Europe,2008,79.6804878
+Belize,Developing,North America,2008,71.059
+Benin,Developing,Africa,2008,58.654
+Bhutan,Developing,Asia,2008,67.325
+Bolivia,Developing,South America,2008,66.937
+Bosnia and Herzegovina,Developing,Europe,2008,75.665
+Botswana,Developing,Africa,2008,56.679
+Brazil,Developing,South America,2008,72.966
+Brunei,Developing,Asia,2008,74.494
+Bulgaria,Developing,Europe,2008,72.96341463
+Burkina Faso,Developing,Africa,2008,55.618
+Burundi,Developing,Africa,2008,55.721
+Cambodia,Developing,Asia,2008,65.394
+Cameroon,Developing,Africa,2008,54.153
+Canada,Developed,North America,2008,80.69512195
+Cape Verde,Developing,Africa,2008,70.786
+Central African Republic,Developing,Africa,2008,46.161
+Chad,Developing,Africa,2008,49.82
+Chile,Developing,South America,2008,78.33
+China,Developing,Asia,2008,73.835
+Colombia,Developing,South America,2008,74.962
+Comoros,Developing,Africa,2008,61.094
+Costa Rica,Developing,North America,2008,78.491
+Croatia,Developing,Europe,2008,75.91219512
+Czech Republic,Developed,Europe,2008,76.97560976
+Denmark,Developed,Europe,2008,78.44634146
+Djibouti,Developing,Africa,2008,59.124
+Dominica,Developing,North America,2008,76.59756098
+Dominican Republic,Developing,North America,2008,71.559
+DR Congo,Developing,Africa,2008,55.743
+Ecuador,Developing,South America,2008,74.705
+Egypt,Developing,Africa,2008,69.971
+El Salvador,Developing,North America,2008,70.756
+Equatorial Guinea,Developing,Africa,2008,55.07
+Eritrea,Developing,Africa,2008,60.952
+Estonia,Developed,Europe,2008,73.77073171
+Eswatini,Developing,Africa,2008,44.17
+Ethiopia,Developing,Africa,2008,59.581
+Fiji,Developing,Oceania,2008,66.477
+Finland,Developed,Europe,2008,79.56829268
+France,Developed,Europe,2008,81.21463415
+Gabon,Developing,Africa,2008,59.904
+Gambia,Developing,Africa,2008,59.012
+Georgia,Developing,Asia,2008,70.946
+Germany,Developed,Europe,2008,79.73658537
+Ghana,Developing,Africa,2008,60.216
+Grenada,Developing,North America,2008,73.038
+Guatemala,Developing,North America,2008,70.75
+Guinea,Developing,Africa,2008,55.614
+Guinea-Bissau,Developing,Africa,2008,53.612
+Guyana,Developing,South America,2008,67.521
+Haiti,Developing,North America,2008,59.782
+Honduras,Developing,North America,2008,72.803
+Hungary,Developing,Europe,2008,73.70243902
+Iceland,Developed,Europe,2008,81.6097561
+India,Developing,Asia,2008,65.794
+Indonesia,Developing,Asia,2008,68.485
+Iran,Developing,Asia,2008,73.027
+Iraq,Developing,Asia,2008,68.19
+Ireland,Developed,Europe,2008,80.09512195
+Ivory Coast,Developing,Africa,2008,51.682
+Jamaica,Developing,North America,2008,74.103
+Japan,Developed,Asia,2008,82.58756098
+Jordan,Developing,Asia,2008,73.099
+Kazakhstan,Developing,Asia,2008,67.11
+Kenya,Developing,Africa,2008,58.76
+Kiribati,Developing,Oceania,2008,65.208
+Kuwait,Developing,Asia,2008,73.976
+Kyrgyzstan,Developing,Asia,2008,68.45121951
+Laos,Developing,Asia,2008,63.271
+Lebanon,Developing,Asia,2008,77.911
+Lesotho,Developing,Africa,2008,43.384
+Liberia,Developing,Africa,2008,58.229
+Libya,Developing,Africa,2008,72.174
+Luxembourg,Developed,Europe,2008,80.53902439
+Madagascar,Developing,Africa,2008,62.509
+Malawi,Developing,Africa,2008,52.206
+Malaysia,Developing,Asia,2008,74.118
+Maldives,Developing,Asia,2008,75.073
+Mali,Developing,Africa,2008,54.193
+Marshall Islands,Developing,Oceania,2008,65.23902439
+Mauritania,Developing,Africa,2008,62.015
+Mauritius,Developing,Africa,2008,72.57073171
+Mexico,Developing,North America,2008,75.194
+Micronesia,Developing,Oceania,2008,66.099
+Moldova,Developing,Europe,2008,68.671
+Mongolia,Developing,Asia,2008,66.447
+Montenegro,Developing,Europe,2008,75.13658537
+Morocco,Developing,Africa,2008,73.546
+Mozambique,Developing,Africa,2008,51.292
+Myanmar,Developing,Asia,2008,62.678
+Namibia,Developing,Africa,2008,53.817
+Nepal,Developing,Asia,2008,66.727
+Netherlands,Developed,Europe,2008,80.25121951
+New Zealand,Developed,Oceania,2008,80.35121951
+Nicaragua,Developing,North America,2008,71.915
+Niger,Developing,Africa,2008,55.764
+Nigeria,Developing,Africa,2008,49.913
+North Macedonia,Developing,Europe,2008,74.4
+Norway,Developed,Europe,2008,80.59268293
+Oman,Developing,Asia,2008,75.179
+Pakistan,Developing,Asia,2008,64.685
+Palau,Developing,Oceania,2008,69.81146341
+Panama,Developing,North America,2008,76.414
+Papua New Guinea,Developing,Oceania,2008,61.442
+Paraguay,Developing,South America,2008,72.251
+Peru,Developing,South America,2008,73.826
+Philippines,Developing,Asia,2008,69.515
+Portugal,Developed,Europe,2008,78.52439024
+Qatar,Developing,Asia,2008,78.775
+Republic of the Congo,Developing,Africa,2008,58.466
+Romania,Developing,Europe,2008,72.56585366
+Russia,Developing,Europe,2008,67.94926829
+Rwanda,Developing,Africa,2008,60.612
+Saint Kitts and Nevis,Developing,North America,2008,71.33658537
+Saint Lucia,Developing,North America,2008,74.571
+Saint Vincent and the Grenadines,Developing,North America,2008,71.643
+Samoa,Developing,Oceania,2008,71.158
+Sao Tome and Principe,Developing,Africa,2008,66.412
+Saudi Arabia,Developing,Asia,2008,73.598
+Senegal,Developing,Africa,2008,62.88
+Serbia,Developing,Europe,2008,73.88536585
+Seychelles,Developing,Africa,2008,73.16341463
+Sierra Leone,Developing,Africa,2008,47.508
+Singapore,Developed,Asia,2008,80.7902439
+Solomon Islands,Developing,Oceania,2008,70.063
+Somalia,Developing,Africa,2008,53.326
+South Africa,Developing,Africa,2008,55.36
+South Korea,Developed,Asia,2008,79.51707317
+South Sudan,Developing,Africa,2008,53.6
+Spain,Developed,Europe,2008,81.17560976
+Sri Lanka,Developing,Asia,2008,75.157
+Sudan,Developing,Africa,2008,61.879
+Suriname,Developing,South America,2008,69.91
+Sweden,Developed,Europe,2008,81.1
+Switzerland,Developed,Europe,2008,81.99268293
+Syria,Developing,Asia,2008,73.647
+Tajikistan,Developing,Asia,2008,67.911
+Tanzania,Developing,Africa,2008,56.777
+Thailand,Developing,Asia,2008,73.341
+Timor-Leste,Developing,Asia,2008,66.276
+Togo,Developing,Africa,2008,56.178
+Tonga,Developing,Oceania,2008,69.921
+Trinidad and Tobago,Developing,North America,2008,71.464
+Tunisia,Developing,Africa,2008,74.72
+Turkey,Developing,Asia,2008,73.649
+Turkmenistan,Developing,Asia,2008,66.031
+Uganda,Developing,Africa,2008,54.984
+Ukraine,Developing,Europe,2008,68.25146341
+United Arab Emirates,Developing,Asia,2008,75.957
+United Kingdom,Developed,Europe,2008,79.6
+United States,Developed,North America,2008,78.03902439
+Uruguay,Developing,South America,2008,76.437
+Uzbekistan,Developing,Asia,2008,69.193
+Vanuatu,Developing,Oceania,2008,68.824
+Venezuela,Developing,South America,2008,73.071
+Vietnam,Developing,Asia,2008,74.625
+Yemen,Developing,Asia,2008,64.892
+Zambia,Developing,Africa,2008,52.606
+Zimbabwe,Developing,Africa,2008,46.504
+Afghanistan,Developing,Asia,2009,60.484
+Albania,Developing,Europe,2009,76.221
+Algeria,Developing,Africa,2009,74.644
+Angola,Developing,Africa,2009,54.311
+Antigua and Barbuda,Developing,North America,2009,75.683
+Argentina,Developing,South America,2009,75.116
+Armenia,Developing,Asia,2009,73.118
+Australia,Developed,Oceania,2009,81.54390244
+Austria,Developed,Europe,2009,80.33170732
+Azerbaijan,Developing,Asia,2009,70.597
+Bahamas,Developing,North America,2009,72.067
+Bahrain,Developing,Asia,2009,75.913
+Bangladesh,Developing,Asia,2009,69.485
+Barbados,Developing,North America,2009,78.272
+Belarus,Developing,Europe,2009,70.40731707
+Belgium,Developed,Europe,2009,80.03414634
+Belize,Developing,North America,2009,71.541
+Benin,Developing,Africa,2009,59.009
+Bhutan,Developing,Asia,2009,67.882
+Bolivia,Developing,South America,2009,67.476
+Bosnia and Herzegovina,Developing,Europe,2009,75.844
+Botswana,Developing,Africa,2009,58.447
+Brazil,Developing,South America,2009,73.3
+Brunei,Developing,Asia,2009,74.623
+Bulgaria,Developing,Europe,2009,73.41219512
+Burkina Faso,Developing,Africa,2009,56.377
+Burundi,Developing,Africa,2009,56.488
+Cambodia,Developing,Asia,2009,66.014
+Cameroon,Developing,Africa,2009,54.627
+Canada,Developed,North America,2009,80.99512195
+Cape Verde,Developing,Africa,2009,70.911
+Central African Republic,Developing,Africa,2009,46.719
+Chad,Developing,Africa,2009,50.346
+Chile,Developing,South America,2009,78.558
+China,Developing,Asia,2009,74.119
+Colombia,Developing,South America,2009,75.193
+Comoros,Developing,Africa,2009,61.475
+Costa Rica,Developing,North America,2009,78.626
+Croatia,Developing,Europe,2009,76.16829268
+Czech Republic,Developed,Europe,2009,77.07804878
+Denmark,Developed,Europe,2009,78.59756098
+Djibouti,Developing,Africa,2009,59.561
+Dominica,Developing,North America,2009,76.59756098
+Dominican Republic,Developing,North America,2009,71.806
+DR Congo,Developing,Africa,2009,56.35
+Ecuador,Developing,South America,2009,74.895
+Egypt,Developing,Africa,2009,70.159
+El Salvador,Developing,North America,2009,70.978
+Equatorial Guinea,Developing,Africa,2009,55.329
+Eritrea,Developing,Africa,2009,61.602
+Estonia,Developed,Europe,2009,74.82439024
+Eswatini,Developing,Africa,2009,45.275
+Ethiopia,Developing,Africa,2009,60.645
+Fiji,Developing,Oceania,2009,66.559
+Finland,Developed,Europe,2009,79.7195122
+France,Developed,Europe,2009,81.41463415
+Gabon,Developing,Africa,2009,60.637
+Gambia,Developing,Africa,2009,59.334
+Georgia,Developing,Asia,2009,71.18
+Germany,Developed,Europe,2009,79.83658537
+Ghana,Developing,Africa,2009,60.645
+Grenada,Developing,North America,2009,72.96
+Guatemala,Developing,North America,2009,71.108
+Guinea,Developing,Africa,2009,56.279
+Guinea-Bissau,Developing,Africa,2009,54.113
+Guyana,Developing,South America,2009,67.792
+Haiti,Developing,North America,2009,60.148
+Honduras,Developing,North America,2009,73.061
+Hungary,Developing,Europe,2009,73.90487805
+Iceland,Developed,Europe,2009,81.75121951
+India,Developing,Asia,2009,66.244
+Indonesia,Developing,Asia,2009,68.853
+Iran,Developing,Asia,2009,73.457
+Iraq,Developing,Asia,2009,68.34
+Ireland,Developed,Europe,2009,80.1902439
+Ivory Coast,Developing,Africa,2009,52.313
+Jamaica,Developing,North America,2009,74.071
+Japan,Developed,Asia,2009,82.93146341
+Jordan,Developing,Asia,2009,73.266
+Kazakhstan,Developing,Asia,2009,68.39
+Kenya,Developing,Africa,2009,59.932
+Kiribati,Developing,Oceania,2009,65.48
+Kuwait,Developing,Asia,2009,74.162
+Kyrgyzstan,Developing,Asia,2009,69.10243902
+Laos,Developing,Asia,2009,63.797
+Lebanon,Developing,Asia,2009,78.161
+Lesotho,Developing,Africa,2009,44.146
+Liberia,Developing,Africa,2009,58.971
+Libya,Developing,Africa,2009,72.129
+Luxembourg,Developed,Europe,2009,80.63658537
+Madagascar,Developing,Africa,2009,62.944
+Malawi,Developing,Africa,2009,53.888
+Malaysia,Developing,Asia,2009,74.305
+Maldives,Developing,Asia,2009,75.499
+Mali,Developing,Africa,2009,54.756
+Marshall Islands,Developing,Oceania,2009,65.23902439
+Mauritania,Developing,Africa,2009,62.266
+Mauritius,Developing,Africa,2009,72.88243902
+Mexico,Developing,North America,2009,75.128
+Micronesia,Developing,Oceania,2009,66.29
+Moldova,Developing,Europe,2009,69.119
+Mongolia,Developing,Asia,2009,66.916
+Montenegro,Developing,Europe,2009,75.14390244
+Morocco,Developing,Africa,2009,74.003
+Mozambique,Developing,Africa,2009,51.738
+Myanmar,Developing,Asia,2009,63.089
+Namibia,Developing,Africa,2009,55.207
+Nepal,Developing,Asia,2009,67.178
+Netherlands,Developed,Europe,2009,80.54878049
+New Zealand,Developed,Oceania,2009,80.70243902
+Nicaragua,Developing,North America,2009,72.167
+Niger,Developing,Africa,2009,56.557
+Nigeria,Developing,Africa,2009,50.422
+North Macedonia,Developing,Europe,2009,74.44634146
+Norway,Developed,Europe,2009,80.79512195
+Oman,Developing,Asia,2009,75.44
+Pakistan,Developing,Asia,2009,64.969
+Palau,Developing,Oceania,2009,69.81146341
+Panama,Developing,North America,2009,76.6
+Papua New Guinea,Developing,Oceania,2009,61.739
+Paraguay,Developing,South America,2009,72.45
+Peru,Developing,South America,2009,74.12
+Philippines,Developing,Asia,2009,69.667
+Portugal,Developed,Europe,2009,78.72682927
+Qatar,Developing,Asia,2009,78.945
+Republic of the Congo,Developing,Africa,2009,59.321
+Romania,Developing,Europe,2009,73.3097561
+Russia,Developing,Europe,2009,68.68463415
+Rwanda,Developing,Africa,2009,62.129
+Saint Kitts and Nevis,Developing,North America,2009,71.33658537
+Saint Lucia,Developing,North America,2009,74.712
+Saint Vincent and the Grenadines,Developing,North America,2009,71.716
+Samoa,Developing,Oceania,2009,71.412
+Sao Tome and Principe,Developing,Africa,2009,66.938
+Saudi Arabia,Developing,Asia,2009,73.75
+Senegal,Developing,Africa,2009,63.607
+Serbia,Developing,Europe,2009,73.98536585
+Seychelles,Developing,Africa,2009,73.08292683
+Sierra Leone,Developing,Africa,2009,48.468
+Singapore,Developed,Asia,2009,81.24146341
+Solomon Islands,Developing,Oceania,2009,70.366
+Somalia,Developing,Africa,2009,53.654
+South Africa,Developing,Africa,2009,56.46
+South Korea,Developed,Asia,2009,79.96829268
+South Sudan,Developing,Africa,2009,54.219
+Spain,Developed,Europe,2009,81.47560976
+Sri Lanka,Developing,Asia,2009,75.286
+Sudan,Developing,Africa,2009,62.33
+Suriname,Developing,South America,2009,70.209
+Sweden,Developed,Europe,2009,81.35121951
+Switzerland,Developed,Europe,2009,82.04390244
+Syria,Developing,Asia,2009,72.938
+Tajikistan,Developing,Asia,2009,68.36
+Tanzania,Developing,Africa,2009,57.666
+Thailand,Developing,Asia,2009,73.766
+Timor-Leste,Developing,Asia,2009,66.796
+Togo,Developing,Africa,2009,56.818
+Tonga,Developing,Oceania,2009,69.982
+Trinidad and Tobago,Developing,North America,2009,71.71
+Tunisia,Developing,Africa,2009,74.88
+Turkey,Developing,Asia,2009,74.074
+Turkmenistan,Developing,Asia,2009,66.355
+Uganda,Developing,Africa,2009,56.06
+Ukraine,Developing,Europe,2009,69.19
+United Arab Emirates,Developing,Asia,2009,76.145
+United Kingdom,Developed,Europe,2009,80.05121951
+United States,Developed,North America,2009,78.3902439
+Uruguay,Developing,South America,2009,76.603
+Uzbekistan,Developing,Asia,2009,69.435
+Vanuatu,Developing,Oceania,2009,68.974
+Venezuela,Developing,South America,2009,73.116
+Vietnam,Developing,Asia,2009,74.745
+Yemen,Developing,Asia,2009,65.255
+Zambia,Developing,Africa,2009,54.13
+Zimbabwe,Developing,Africa,2009,48.449
+Afghanistan,Developing,Asia,2010,61.028
+Albania,Developing,Europe,2010,76.562
+Algeria,Developing,Africa,2010,74.938
+Angola,Developing,Africa,2010,55.35
+Antigua and Barbuda,Developing,North America,2010,75.823
+Argentina,Developing,South America,2010,75.278
+Armenia,Developing,Asia,2010,73.331
+Australia,Developed,Oceania,2010,81.69512195
+Austria,Developed,Europe,2010,80.5804878
+Azerbaijan,Developing,Asia,2010,70.938
+Bahamas,Developing,North America,2010,72.144
+Bahrain,Developing,Asia,2010,76.057
+Bangladesh,Developing,Asia,2010,69.881
+Barbados,Developing,North America,2010,78.364
+Belarus,Developing,Europe,2010,70.40487805
+Belgium,Developed,Europe,2010,80.18292683
+Belize,Developing,North America,2010,72.057
+Benin,Developing,Africa,2010,59.318
+Bhutan,Developing,Asia,2010,68.384
+Bolivia,Developing,South America,2010,68.007
+Bosnia and Herzegovina,Developing,Europe,2010,76.031
+Botswana,Developing,Africa,2010,60.211
+Brazil,Developing,South America,2010,73.619
+Brunei,Developing,Asia,2010,74.74
+Bulgaria,Developing,Europe,2010,73.51219512
+Burkina Faso,Developing,Africa,2010,57.096
+Burundi,Developing,Africa,2010,57.228
+Cambodia,Developing,Asia,2010,66.56
+Cameroon,Developing,Africa,2010,55.101
+Canada,Developed,North America,2010,81.24634146
+Cape Verde,Developing,Africa,2010,71.062
+Central African Republic,Developing,Africa,2010,47.312
+Chad,Developing,Africa,2010,50.89
+Chile,Developing,South America,2010,78.779
+China,Developing,Asia,2010,74.409
+Colombia,Developing,South America,2010,75.424
+Comoros,Developing,Africa,2010,61.862
+Costa Rica,Developing,North America,2010,78.769
+Croatia,Developing,Europe,2010,76.47560976
+Czech Republic,Developed,Europe,2010,77.42439024
+Denmark,Developed,Europe,2010,79.1
+Djibouti,Developing,Africa,2010,60.062
+Dominica,Developing,North America,2010,76.59756098
+Dominican Republic,Developing,North America,2010,72.046
+DR Congo,Developing,Africa,2010,56.909
+Ecuador,Developing,South America,2010,75.089
+Egypt,Developing,Africa,2010,70.349
+El Salvador,Developing,North America,2010,71.21
+Equatorial Guinea,Developing,Africa,2010,55.622
+Eritrea,Developing,Africa,2010,62.193
+Estonia,Developed,Europe,2010,75.42926829
+Eswatini,Developing,Africa,2010,46.601
+Ethiopia,Developing,Africa,2010,61.627
+Fiji,Developing,Oceania,2010,66.655
+Finland,Developed,Europe,2010,79.87073171
+France,Developed,Europe,2010,81.66341463
+Gabon,Developing,Africa,2010,61.4
+Gambia,Developing,Africa,2010,59.637
+Georgia,Developing,Asia,2010,71.46
+Germany,Developed,Europe,2010,79.98780488
+Ghana,Developing,Africa,2010,61.03
+Grenada,Developing,North America,2010,72.867
+Guatemala,Developing,North America,2010,71.481
+Guinea,Developing,Africa,2010,56.861
+Guinea-Bissau,Developing,Africa,2010,54.628
+Guyana,Developing,South America,2010,68.059
+Haiti,Developing,North America,2010,60.511
+Honduras,Developing,North America,2010,73.317
+Hungary,Developing,Europe,2010,74.20731707
+Iceland,Developed,Europe,2010,81.89756098
+India,Developing,Asia,2010,66.693
+Indonesia,Developing,Asia,2010,69.205
+Iran,Developing,Asia,2010,73.905
+Iraq,Developing,Asia,2010,68.567
+Ireland,Developed,Europe,2010,80.74390244
+Ivory Coast,Developing,Africa,2010,52.964
+Jamaica,Developing,North America,2010,74.038
+Japan,Developed,Asia,2010,82.84268293
+Jordan,Developing,Asia,2010,73.428
+Kazakhstan,Developing,Asia,2010,68.45
+Kenya,Developing,Africa,2010,60.959
+Kiribati,Developing,Oceania,2010,65.769
+Kuwait,Developing,Asia,2010,74.358
+Kyrgyzstan,Developing,Asia,2010,69.3
+Laos,Developing,Asia,2010,64.306
+Lebanon,Developing,Asia,2010,78.36
+Lesotho,Developing,Africa,2010,45.1
+Liberia,Developing,Africa,2010,59.6
+Libya,Developing,Africa,2010,72.044
+Luxembourg,Developed,Europe,2010,80.63170732
+Madagascar,Developing,Africa,2010,63.388
+Malawi,Developing,Africa,2010,55.564
+Malaysia,Developing,Asia,2010,74.493
+Maldives,Developing,Asia,2010,75.905
+Mali,Developing,Africa,2010,55.251
+Marshall Islands,Developing,Oceania,2010,65.23902439
+Mauritania,Developing,Africa,2010,62.527
+Mauritius,Developing,Africa,2010,72.96731707
+Mexico,Developing,North America,2010,75.065
+Micronesia,Developing,Oceania,2010,66.471
+Moldova,Developing,Europe,2010,69.616
+Mongolia,Developing,Asia,2010,67.38
+Montenegro,Developing,Europe,2010,75.9902439
+Morocco,Developing,Africa,2010,74.382
+Mozambique,Developing,Africa,2010,52.31
+Myanmar,Developing,Asia,2010,63.525
+Namibia,Developing,Africa,2010,56.665
+Nepal,Developing,Asia,2010,67.611
+Netherlands,Developed,Europe,2010,80.70243902
+New Zealand,Developed,Oceania,2010,80.70243902
+Nicaragua,Developing,North America,2010,72.428
+Niger,Developing,Africa,2010,57.333
+Nigeria,Developing,Africa,2010,50.896
+North Macedonia,Developing,Europe,2010,74.99756098
+Norway,Developed,Europe,2010,80.99756098
+Oman,Developing,Asia,2010,75.682
+Pakistan,Developing,Asia,2010,65.264
+Palau,Developing,Oceania,2010,69.81146341
+Panama,Developing,North America,2010,76.792
+Papua New Guinea,Developing,Oceania,2010,62.029
+Paraguay,Developing,South America,2010,72.653
+Peru,Developing,South America,2010,74.41
+Philippines,Developing,Asia,2010,69.823
+Portugal,Developed,Europe,2010,79.02682927
+Qatar,Developing,Asia,2010,79.108
+Republic of the Congo,Developing,Africa,2010,60.093
+Romania,Developing,Europe,2010,73.45853659
+Russia,Developing,Europe,2010,68.84121951
+Rwanda,Developing,Africa,2010,63.433
+Saint Kitts and Nevis,Developing,North America,2010,71.33658537
+Saint Lucia,Developing,North America,2010,74.852
+Saint Vincent and the Grenadines,Developing,North America,2010,71.776
+Samoa,Developing,Oceania,2010,71.663
+Sao Tome and Principe,Developing,Africa,2010,67.43
+Saudi Arabia,Developing,Asia,2010,73.917
+Senegal,Developing,Africa,2010,64.284
+Serbia,Developing,Europe,2010,74.33658537
+Seychelles,Developing,Africa,2010,73.19756098
+Sierra Leone,Developing,Africa,2010,49.382
+Singapore,Developed,Asia,2010,81.54146341
+Solomon Islands,Developing,Oceania,2010,70.674
+Somalia,Developing,Africa,2010,53.99
+South Africa,Developing,Africa,2010,57.669
+South Korea,Developed,Asia,2010,80.11707317
+South Sudan,Developing,Africa,2010,54.8
+Spain,Developed,Europe,2010,81.62682927
+Sri Lanka,Developing,Asia,2010,75.439
+Sudan,Developing,Africa,2010,62.764
+Suriname,Developing,South America,2010,70.465
+Sweden,Developed,Europe,2010,81.45121951
+Switzerland,Developed,Europe,2010,82.24634146
+Syria,Developing,Asia,2010,72.108
+Tajikistan,Developing,Asia,2010,68.736
+Tanzania,Developing,Africa,2010,58.584
+Thailand,Developing,Asia,2010,74.184
+Timor-Leste,Developing,Asia,2010,67.186
+Togo,Developing,Africa,2010,57.468
+Tonga,Developing,Oceania,2010,70.059
+Trinidad and Tobago,Developing,North America,2010,71.946
+Tunisia,Developing,Africa,2010,75.041
+Turkey,Developing,Asia,2010,74.507
+Turkmenistan,Developing,Asia,2010,66.657
+Uganda,Developing,Africa,2010,57.099
+Ukraine,Developing,Europe,2010,70.26536585
+United Arab Emirates,Developing,Asia,2010,76.332
+United Kingdom,Developed,Europe,2010,80.40243902
+United States,Developed,North America,2010,78.54146341
+Uruguay,Developing,South America,2010,76.75
+Uzbekistan,Developing,Asia,2010,69.672
+Vanuatu,Developing,Oceania,2010,69.123
+Venezuela,Developing,South America,2010,73.134
+Vietnam,Developing,Asia,2010,74.837
+Yemen,Developing,Asia,2010,65.549
+Zambia,Developing,Africa,2010,55.655
+Zimbabwe,Developing,Africa,2010,50.64
+Afghanistan,Developing,Asia,2011,61.553
+Albania,Developing,Europe,2011,76.914
+Algeria,Developing,Africa,2011,75.199
+Angola,Developing,Africa,2011,56.33
+Antigua and Barbuda,Developing,North America,2011,75.956
+Argentina,Developing,South America,2011,75.439
+Armenia,Developing,Asia,2011,73.572
+Australia,Developed,Oceania,2011,81.89512195
+Austria,Developed,Europe,2011,80.98292683
+Azerbaijan,Developing,Asia,2011,71.234
+Bahamas,Developing,North America,2011,72.263
+Bahrain,Developing,Asia,2011,76.2
+Bangladesh,Developing,Asia,2011,70.256
+Barbados,Developing,North America,2011,78.456
+Belarus,Developing,Europe,2011,70.55365854
+Belgium,Developed,Europe,2011,80.58536585
+Belize,Developing,North America,2011,72.57
+Benin,Developing,Africa,2011,59.59
+Bhutan,Developing,Asia,2011,68.84
+Bolivia,Developing,South America,2011,68.521
+Bosnia and Herzegovina,Developing,Europe,2011,76.219
+Botswana,Developing,Africa,2011,61.91
+Brazil,Developing,South America,2011,73.921
+Brunei,Developing,Asia,2011,74.852
+Bulgaria,Developing,Europe,2011,74.16341463
+Burkina Faso,Developing,Africa,2011,57.761
+Burundi,Developing,Africa,2011,57.925
+Cambodia,Developing,Asia,2011,67.043
+Cameroon,Developing,Africa,2011,55.581
+Canada,Developed,North America,2011,81.44878049
+Cape Verde,Developing,Africa,2011,71.243
+Central African Republic,Developing,Africa,2011,47.95
+Chad,Developing,Africa,2011,51.424
+Chile,Developing,South America,2011,78.986
+China,Developing,Asia,2011,74.708
+Colombia,Developing,South America,2011,75.655
+Comoros,Developing,Africa,2011,62.24
+Costa Rica,Developing,North America,2011,78.919
+Croatia,Developing,Europe,2011,76.77560976
+Czech Republic,Developed,Europe,2011,77.87317073
+Denmark,Developed,Europe,2011,79.8
+Djibouti,Developing,Africa,2011,60.667
+Dominica,Developing,North America,2011,76.59756098
+Dominican Republic,Developing,North America,2011,72.284
+DR Congo,Developing,Africa,2011,57.427
+Ecuador,Developing,South America,2011,75.289
+Egypt,Developing,Africa,2011,70.543
+El Salvador,Developing,North America,2011,71.449
+Equatorial Guinea,Developing,Africa,2011,55.945
+Eritrea,Developing,Africa,2011,62.732
+Estonia,Developed,Europe,2011,76.22926829
+Eswatini,Developing,Africa,2011,48.141
+Ethiopia,Developing,Africa,2011,62.505
+Fiji,Developing,Oceania,2011,66.759
+Finland,Developed,Europe,2011,80.47073171
+France,Developed,Europe,2011,82.11463415
+Gabon,Developing,Africa,2011,62.168
+Gambia,Developing,Africa,2011,59.917
+Georgia,Developing,Asia,2011,71.773
+Germany,Developed,Europe,2011,80.43658537
+Ghana,Developing,Africa,2011,61.381
+Grenada,Developing,North America,2011,72.768
+Guatemala,Developing,North America,2011,71.861
+Guinea,Developing,Africa,2011,57.387
+Guinea-Bissau,Developing,Africa,2011,55.144
+Guyana,Developing,South America,2011,68.321
+Haiti,Developing,North America,2011,60.879
+Honduras,Developing,North America,2011,73.569
+Hungary,Developing,Europe,2011,74.85853659
+Iceland,Developed,Europe,2011,82.35853659
+India,Developing,Asia,2011,67.13
+Indonesia,Developing,Asia,2011,69.542
+Iran,Developing,Asia,2011,74.352
+Iraq,Developing,Asia,2011,68.848
+Ireland,Developed,Europe,2011,80.74634146
+Ivory Coast,Developing,Africa,2011,53.62
+Jamaica,Developing,North America,2011,74.012
+Japan,Developed,Asia,2011,82.59121951
+Jordan,Developing,Asia,2011,73.581
+Kazakhstan,Developing,Asia,2011,68.69
+Kenya,Developing,Africa,2011,61.851
+Kiribati,Developing,Oceania,2011,66.072
+Kuwait,Developing,Asia,2011,74.55
+Kyrgyzstan,Developing,Asia,2011,69.60243902
+Laos,Developing,Asia,2011,64.797
+Lebanon,Developing,Asia,2011,78.507
+Lesotho,Developing,Africa,2011,46.207
+Liberia,Developing,Africa,2011,60.146
+Libya,Developing,Africa,2011,71.956
+Luxembourg,Developed,Europe,2011,80.98780488
+Madagascar,Developing,Africa,2011,63.836
+Malawi,Developing,Africa,2011,57.161
+Malaysia,Developing,Asia,2011,74.683
+Maldives,Developing,Asia,2011,76.293
+Mali,Developing,Africa,2011,55.701
+Marshall Islands,Developing,Oceania,2011,65.23902439
+Mauritania,Developing,Africa,2011,62.799
+Mauritius,Developing,Africa,2011,73.26682927
+Mexico,Developing,North America,2011,75.011
+Micronesia,Developing,Oceania,2011,66.646
+Moldova,Developing,Europe,2011,70.119
+Mongolia,Developing,Asia,2011,67.818
+Montenegro,Developing,Europe,2011,75.98292683
+Morocco,Developing,Africa,2011,74.696
+Mozambique,Developing,Africa,2011,53.043
+Myanmar,Developing,Asia,2011,63.983
+Namibia,Developing,Africa,2011,58.085
+Nepal,Developing,Asia,2011,68.028
+Netherlands,Developed,Europe,2011,81.20487805
+New Zealand,Developed,Oceania,2011,80.90487805
+Nicaragua,Developing,North America,2011,72.692
+Niger,Developing,Africa,2011,58.081
+Nigeria,Developing,Africa,2011,51.346
+North Macedonia,Developing,Europe,2011,75.1
+Norway,Developed,Europe,2011,81.29512195
+Oman,Developing,Asia,2011,75.916
+Pakistan,Developing,Asia,2011,65.562
+Palau,Developing,Oceania,2011,69.81146341
+Panama,Developing,North America,2011,76.989
+Papua New Guinea,Developing,Oceania,2011,62.316
+Paraguay,Developing,South America,2011,72.86
+Peru,Developing,South America,2011,74.697
+Philippines,Developing,Asia,2011,69.984
+Portugal,Developed,Europe,2011,80.47073171
+Qatar,Developing,Asia,2011,79.26
+Republic of the Congo,Developing,Africa,2011,60.785
+Romania,Developing,Europe,2011,74.4097561
+Russia,Developing,Europe,2011,69.68390244
+Rwanda,Developing,Africa,2011,64.523
+Saint Kitts and Nevis,Developing,North America,2011,71.33658537
+Saint Lucia,Developing,North America,2011,74.993
+Saint Vincent and the Grenadines,Developing,North America,2011,71.827
+Samoa,Developing,Oceania,2011,71.906
+Sao Tome and Principe,Developing,Africa,2011,67.885
+Saudi Arabia,Developing,Asia,2011,74.089
+Senegal,Developing,Africa,2011,64.898
+Serbia,Developing,Europe,2011,74.53658537
+Seychelles,Developing,Africa,2011,72.72439024
+Sierra Leone,Developing,Africa,2011,50.234
+Singapore,Developed,Asia,2011,81.74390244
+Solomon Islands,Developing,Oceania,2011,70.985
+Somalia,Developing,Africa,2011,54.342
+South Africa,Developing,Africa,2011,58.895
+South Korea,Developed,Asia,2011,80.56829268
+South Sudan,Developing,Africa,2011,55.325
+Spain,Developed,Europe,2011,82.47560976
+Sri Lanka,Developing,Asia,2011,75.614
+Sudan,Developing,Africa,2011,63.171
+Suriname,Developing,South America,2011,70.676
+Sweden,Developed,Europe,2011,81.80243902
+Switzerland,Developed,Europe,2011,82.69512195
+Syria,Developing,Asia,2011,71.27
+Tajikistan,Developing,Asia,2011,69.055
+Tanzania,Developing,Africa,2011,59.525
+Thailand,Developing,Asia,2011,74.593
+Timor-Leste,Developing,Asia,2011,67.477
+Togo,Developing,Africa,2011,58.092
+Tonga,Developing,Oceania,2011,70.148
+Trinidad and Tobago,Developing,North America,2011,72.17
+Tunisia,Developing,Africa,2011,75.206
+Turkey,Developing,Asia,2011,74.944
+Turkmenistan,Developing,Asia,2011,66.928
+Uganda,Developing,Africa,2011,58.087
+Ukraine,Developing,Europe,2011,70.80926829
+United Arab Emirates,Developing,Asia,2011,76.521
+United Kingdom,Developed,Europe,2011,80.95121951
+United States,Developed,North America,2011,78.64146341
+Uruguay,Developing,South America,2011,76.882
+Uzbekistan,Developing,Asia,2011,69.91
+Vanuatu,Developing,Oceania,2011,69.272
+Venezuela,Developing,South America,2011,73.11
+Vietnam,Developing,Asia,2011,74.904
+Yemen,Developing,Asia,2011,65.768
+Zambia,Developing,Africa,2011,57.126
+Zimbabwe,Developing,Africa,2011,52.896
+Afghanistan,Developing,Asia,2012,62.054
+Albania,Developing,Europe,2012,77.252
+Algeria,Developing,Africa,2012,75.436
+Angola,Developing,Africa,2012,57.236
+Antigua and Barbuda,Developing,North America,2012,76.087
+Argentina,Developing,South America,2012,75.598
+Armenia,Developing,Asia,2012,73.82
+Australia,Developed,Oceania,2012,82.04634146
+Austria,Developed,Europe,2012,80.93658537
+Azerbaijan,Developing,Asia,2012,71.506
+Bahamas,Developing,North America,2012,72.424
+Bahrain,Developing,Asia,2012,76.342
+Bangladesh,Developing,Asia,2012,70.606
+Barbados,Developing,North America,2012,78.547
+Belarus,Developing,Europe,2012,71.96585366
+Belgium,Developed,Europe,2012,80.38536585
+Belize,Developing,North America,2012,73.044
+Benin,Developing,Africa,2012,59.842
+Bhutan,Developing,Asia,2012,69.263
+Bolivia,Developing,South America,2012,69.01
+Bosnia and Herzegovina,Developing,Europe,2012,76.401
+Botswana,Developing,Africa,2012,63.511
+Brazil,Developing,South America,2012,74.209
+Brunei,Developing,Asia,2012,74.962
+Bulgaria,Developing,Europe,2012,74.31463415
+Burkina Faso,Developing,Africa,2012,58.374
+Burundi,Developing,Africa,2012,58.568
+Cambodia,Developing,Asia,2012,67.48
+Cameroon,Developing,Africa,2012,56.073
+Canada,Developed,North America,2012,81.64878049
+Cape Verde,Developing,Africa,2012,71.445
+Central African Republic,Developing,Africa,2012,48.638
+Chad,Developing,Africa,2012,51.928
+Chile,Developing,South America,2012,79.176
+China,Developing,Asia,2012,75.013
+Colombia,Developing,South America,2012,75.882
+Comoros,Developing,Africa,2012,62.595
+Costa Rica,Developing,North America,2012,79.074
+Croatia,Developing,Europe,2012,76.92439024
+Czech Republic,Developed,Europe,2012,78.07560976
+Denmark,Developed,Europe,2012,80.05121951
+Djibouti,Developing,Africa,2012,61.395
+Dominica,Developing,North America,2012,76.59756098
+Dominican Republic,Developing,North America,2012,72.523
+DR Congo,Developing,Africa,2012,57.914
+Ecuador,Developing,South America,2012,75.495
+Egypt,Developing,Africa,2012,70.736
+El Salvador,Developing,North America,2012,71.692
+Equatorial Guinea,Developing,Africa,2012,56.288
+Eritrea,Developing,Africa,2012,63.238
+Estonia,Developed,Europe,2012,76.32682927
+Eswatini,Developing,Africa,2012,49.862
+Ethiopia,Developing,Africa,2012,63.281
+Fiji,Developing,Oceania,2012,66.859
+Finland,Developed,Europe,2012,80.62682927
+France,Developed,Europe,2012,81.96829268
+Gabon,Developing,Africa,2012,62.924
+Gambia,Developing,Africa,2012,60.178
+Georgia,Developing,Asia,2012,72.097
+Germany,Developed,Europe,2012,80.53902439
+Ghana,Developing,Africa,2012,61.72
+Grenada,Developing,North America,2012,72.669
+Guatemala,Developing,North America,2012,72.236
+Guinea,Developing,Africa,2012,57.905
+Guinea-Bissau,Developing,Africa,2012,55.645
+Guyana,Developing,South America,2012,68.575
+Haiti,Developing,North America,2012,61.26
+Honduras,Developing,North America,2012,73.814
+Hungary,Developing,Europe,2012,75.06341463
+Iceland,Developed,Europe,2012,82.91707317
+India,Developing,Asia,2012,67.545
+Indonesia,Developing,Asia,2012,69.866
+Iran,Developing,Asia,2012,74.776
+Iraq,Developing,Asia,2012,69.148
+Ireland,Developed,Europe,2012,80.84634146
+Ivory Coast,Developing,Africa,2012,54.271
+Jamaica,Developing,North America,2012,74.001
+Japan,Developed,Asia,2012,83.09609756
+Jordan,Developing,Asia,2012,73.722
+Kazakhstan,Developing,Asia,2012,69.52
+Kenya,Developing,Africa,2012,62.659
+Kiribati,Developing,Oceania,2012,66.381
+Kuwait,Developing,Asia,2012,74.728
+Kyrgyzstan,Developing,Asia,2012,70.00243902
+Laos,Developing,Asia,2012,65.267
+Lebanon,Developing,Asia,2012,78.611
+Lesotho,Developing,Africa,2012,47.416
+Liberia,Developing,Africa,2012,60.663
+Libya,Developing,Africa,2012,71.901
+Luxembourg,Developed,Europe,2012,81.39268293
+Madagascar,Developing,Africa,2012,64.28
+Malawi,Developing,Africa,2012,58.629
+Malaysia,Developing,Asia,2012,74.877
+Maldives,Developing,Asia,2012,76.664
+Mali,Developing,Africa,2012,56.135
+Marshall Islands,Developing,Oceania,2012,65.23902439
+Mauritania,Developing,Africa,2012,63.079
+Mauritius,Developing,Africa,2012,73.86341463
+Mexico,Developing,North America,2012,74.966
+Micronesia,Developing,Oceania,2012,66.817
+Moldova,Developing,Europe,2012,70.581
+Mongolia,Developing,Asia,2012,68.217
+Montenegro,Developing,Europe,2012,76.2
+Morocco,Developing,Africa,2012,74.97
+Mozambique,Developing,Africa,2012,53.931
+Myanmar,Developing,Asia,2012,64.453
+Namibia,Developing,Africa,2012,59.387
+Nepal,Developing,Asia,2012,68.426
+Netherlands,Developed,Europe,2012,81.10487805
+New Zealand,Developed,Oceania,2012,81.15609756
+Nicaragua,Developing,North America,2012,72.951
+Niger,Developing,Africa,2012,58.79
+Nigeria,Developing,Africa,2012,51.786
+North Macedonia,Developing,Europe,2012,74.90243902
+Norway,Developed,Europe,2012,81.45121951
+Oman,Developing,Asia,2012,76.149
+Pakistan,Developing,Asia,2012,65.849
+Palau,Developing,Oceania,2012,69.81146341
+Panama,Developing,North America,2012,77.188
+Papua New Guinea,Developing,Oceania,2012,62.604
+Paraguay,Developing,South America,2012,73.068
+Peru,Developing,South America,2012,74.981
+Philippines,Developing,Asia,2012,70.149
+Portugal,Developed,Europe,2012,80.37317073
+Qatar,Developing,Asia,2012,79.399
+Republic of the Congo,Developing,Africa,2012,61.423
+Romania,Developing,Europe,2012,74.41219512
+Russia,Developing,Europe,2012,70.07219512
+Rwanda,Developing,Africa,2012,65.438
+Saint Kitts and Nevis,Developing,North America,2012,71.33658537
+Saint Lucia,Developing,North America,2012,75.138
+Saint Vincent and the Grenadines,Developing,North America,2012,71.879
+Samoa,Developing,Oceania,2012,72.136
+Sao Tome and Principe,Developing,Africa,2012,68.306
+Saudi Arabia,Developing,Asia,2012,74.254
+Senegal,Developing,Africa,2012,65.448
+Serbia,Developing,Europe,2012,74.83658537
+Seychelles,Developing,Africa,2012,74.27560976
+Sierra Leone,Developing,Africa,2012,51.018
+Singapore,Developed,Asia,2012,81.99512195
+Solomon Islands,Developing,Oceania,2012,71.296
+Somalia,Developing,Africa,2012,54.713
+South Africa,Developing,Africa,2012,60.06
+South Korea,Developed,Asia,2012,80.8195122
+South Sudan,Developing,Africa,2012,55.791
+Spain,Developed,Europe,2012,82.42682927
+Sri Lanka,Developing,Asia,2012,75.796
+Sudan,Developing,Africa,2012,63.542
+Suriname,Developing,South America,2012,70.851
+Sweden,Developed,Europe,2012,81.70487805
+Switzerland,Developed,Europe,2012,82.69756098
+Syria,Developing,Asia,2012,70.55
+Tajikistan,Developing,Asia,2012,69.34
+Tanzania,Developing,Africa,2012,60.47
+Thailand,Developing,Asia,2012,74.992
+Timor-Leste,Developing,Asia,2012,67.72
+Togo,Developing,Africa,2012,58.661
+Tonga,Developing,Oceania,2012,70.242
+Trinidad and Tobago,Developing,North America,2012,72.382
+Tunisia,Developing,Africa,2012,75.376
+Turkey,Developing,Asia,2012,75.373
+Turkmenistan,Developing,Asia,2012,67.167
+Uganda,Developing,Africa,2012,59.017
+Ukraine,Developing,Europe,2012,70.94414634
+United Arab Emirates,Developing,Asia,2012,76.711
+United Kingdom,Developed,Europe,2012,80.90487805
+United States,Developed,North America,2012,78.74146341
+Uruguay,Developing,South America,2012,77.004
+Uzbekistan,Developing,Asia,2012,70.155
+Vanuatu,Developing,Oceania,2012,69.421
+Venezuela,Developing,South America,2012,73.037
+Vietnam,Developing,Asia,2012,74.958
+Yemen,Developing,Asia,2012,65.92
+Zambia,Developing,Africa,2012,58.502
+Zimbabwe,Developing,Africa,2012,55.032
+Afghanistan,Developing,Asia,2013,62.525
+Albania,Developing,Europe,2013,77.554
+Algeria,Developing,Africa,2013,75.661
+Angola,Developing,Africa,2013,58.054
+Antigua and Barbuda,Developing,North America,2013,76.218
+Argentina,Developing,South America,2013,75.756
+Armenia,Developing,Asia,2013,74.056
+Australia,Developed,Oceania,2013,82.14878049
+Austria,Developed,Europe,2013,81.13658537
+Azerbaijan,Developing,Asia,2013,71.768
+Bahamas,Developing,North America,2013,72.62
+Bahrain,Developing,Asia,2013,76.484
+Bangladesh,Developing,Asia,2013,70.93
+Barbados,Developing,North America,2013,78.633
+Belarus,Developing,Europe,2013,72.47073171
+Belgium,Developed,Europe,2013,80.58780488
+Belize,Developing,North America,2013,73.452
+Benin,Developing,Africa,2013,60.092
+Bhutan,Developing,Asia,2013,69.662
+Bolivia,Developing,South America,2013,69.468
+Bosnia and Herzegovina,Developing,Europe,2013,76.569
+Botswana,Developing,Africa,2013,64.976
+Brazil,Developing,South America,2013,74.483
+Brunei,Developing,Asia,2013,75.075
+Bulgaria,Developing,Europe,2013,74.86097561
+Burkina Faso,Developing,Africa,2013,58.937
+Burundi,Developing,Africa,2013,59.148
+Cambodia,Developing,Asia,2013,67.888
+Cameroon,Developing,Africa,2013,56.576
+Canada,Developed,North America,2013,81.74878049
+Cape Verde,Developing,Africa,2013,71.661
+Central African Republic,Developing,Africa,2013,49.371
+Chad,Developing,Africa,2013,52.386
+Chile,Developing,South America,2013,79.349
+China,Developing,Asia,2013,75.321
+Colombia,Developing,South America,2013,76.105
+Comoros,Developing,Africa,2013,62.922
+Costa Rica,Developing,North America,2013,79.234
+Croatia,Developing,Europe,2013,77.12682927
+Czech Republic,Developed,Europe,2013,78.17560976
+Denmark,Developed,Europe,2013,80.3
+Djibouti,Developing,Africa,2013,62.239
+Dominica,Developing,North America,2013,76.59756098
+Dominican Republic,Developing,North America,2013,72.763
+DR Congo,Developing,Africa,2013,58.381
+Ecuador,Developing,South America,2013,75.707
+Egypt,Developing,Africa,2013,70.928
+El Salvador,Developing,North America,2013,71.935
+Equatorial Guinea,Developing,Africa,2013,56.642
+Eritrea,Developing,Africa,2013,63.726
+Estonia,Developed,Europe,2013,77.14146341
+Eswatini,Developing,Africa,2013,51.699
+Ethiopia,Developing,Africa,2013,63.961
+Fiji,Developing,Oceania,2013,66.95
+Finland,Developed,Europe,2013,80.97560976
+France,Developed,Europe,2013,82.2195122
+Gabon,Developing,Africa,2013,63.648
+Gambia,Developing,Africa,2013,60.426
+Georgia,Developing,Asia,2013,72.412
+Germany,Developed,Europe,2013,80.4902439
+Ghana,Developing,Africa,2013,62.064
+Grenada,Developing,North America,2013,72.579
+Guatemala,Developing,North America,2013,72.596
+Guinea,Developing,Africa,2013,58.447
+Guinea-Bissau,Developing,Africa,2013,56.117
+Guyana,Developing,South America,2013,68.819
+Haiti,Developing,North America,2013,61.658
+Honduras,Developing,North America,2013,74.051
+Hungary,Developing,Europe,2013,75.56585366
+Iceland,Developed,Europe,2013,82.06097561
+India,Developing,Asia,2013,67.931
+Indonesia,Developing,Asia,2013,70.179
+Iran,Developing,Asia,2013,75.162
+Iraq,Developing,Asia,2013,69.437
+Ireland,Developed,Europe,2013,80.94878049
+Ivory Coast,Developing,Africa,2013,54.906
+Jamaica,Developing,North America,2013,74.01
+Japan,Developed,Asia,2013,83.33195122
+Jordan,Developing,Asia,2013,73.851
+Kazakhstan,Developing,Asia,2013,70.62
+Kenya,Developing,Africa,2013,63.419
+Kiribati,Developing,Oceania,2013,66.69
+Kuwait,Developing,Asia,2013,74.885
+Kyrgyzstan,Developing,Asia,2013,70.20243902
+Laos,Developing,Asia,2013,65.717
+Lebanon,Developing,Asia,2013,78.683
+Lesotho,Developing,Africa,2013,48.663
+Liberia,Developing,Africa,2013,61.186
+Libya,Developing,Africa,2013,71.907
+Luxembourg,Developed,Europe,2013,81.8
+Madagascar,Developing,Africa,2013,64.713
+Malawi,Developing,Africa,2013,59.931
+Malaysia,Developing,Asia,2013,75.072
+Maldives,Developing,Asia,2013,77.018
+Mali,Developing,Africa,2013,56.578
+Marshall Islands,Developing,Oceania,2013,65.23902439
+Mauritania,Developing,Africa,2013,63.366
+Mauritius,Developing,Africa,2013,74.01707317
+Mexico,Developing,North America,2013,74.93
+Micronesia,Developing,Oceania,2013,66.986
+Moldova,Developing,Europe,2013,70.968
+Mongolia,Developing,Asia,2013,68.566
+Montenegro,Developing,Europe,2013,76.4902439
+Morocco,Developing,Africa,2013,75.227
+Mozambique,Developing,Africa,2013,54.949
+Myanmar,Developing,Asia,2013,64.921
+Namibia,Developing,Africa,2013,60.513
+Nepal,Developing,Asia,2013,68.806
+Netherlands,Developed,Europe,2013,81.30487805
+New Zealand,Developed,Oceania,2013,81.40731707
+Nicaragua,Developing,North America,2013,73.197
+Niger,Developing,Africa,2013,59.455
+Nigeria,Developing,Africa,2013,52.228
+North Macedonia,Developing,Europe,2013,75.4
+Norway,Developed,Europe,2013,81.75121951
+Oman,Developing,Asia,2013,76.388
+Pakistan,Developing,Asia,2013,66.117
+Palau,Developing,Oceania,2013,69.81146341
+Panama,Developing,North America,2013,77.386
+Papua New Guinea,Developing,Oceania,2013,62.892
+Paraguay,Developing,South America,2013,73.274
+Peru,Developing,South America,2013,75.258
+Philippines,Developing,Asia,2013,70.315
+Portugal,Developed,Europe,2013,80.72195122
+Qatar,Developing,Asia,2013,79.527
+Republic of the Congo,Developing,Africa,2013,62.022
+Romania,Developing,Europe,2013,75.06341463
+Russia,Developing,Europe,2013,70.57878049
+Rwanda,Developing,Africa,2013,66.219
+Saint Kitts and Nevis,Developing,North America,2013,71.33658537
+Saint Lucia,Developing,North America,2013,75.286
+Saint Vincent and the Grenadines,Developing,North America,2013,71.939
+Samoa,Developing,Oceania,2013,72.351
+Sao Tome and Principe,Developing,Africa,2013,68.695
+Saudi Arabia,Developing,Asia,2013,74.402
+Senegal,Developing,Africa,2013,65.939
+Serbia,Developing,Europe,2013,75.18536585
+Seychelles,Developing,Africa,2013,73.1195122
+Sierra Leone,Developing,Africa,2013,51.731
+Singapore,Developed,Asia,2013,82.24634146
+Solomon Islands,Developing,Oceania,2013,71.601
+Somalia,Developing,Africa,2013,55.104
+South Africa,Developing,Africa,2013,61.099
+South Korea,Developed,Asia,2013,81.27073171
+South Sudan,Developing,Africa,2013,56.2
+Spain,Developed,Europe,2013,83.07804878
+Sri Lanka,Developing,Asia,2013,75.974
+Sudan,Developing,Africa,2013,63.875
+Suriname,Developing,South America,2013,71.002
+Sweden,Developed,Europe,2013,81.95609756
+Switzerland,Developed,Europe,2013,82.79756098
+Syria,Developing,Asia,2013,70.049
+Tajikistan,Developing,Asia,2013,69.609
+Tanzania,Developing,Africa,2013,61.398
+Thailand,Developing,Asia,2013,75.378
+Timor-Leste,Developing,Asia,2013,67.953
+Togo,Developing,Africa,2013,59.16
+Tonga,Developing,Oceania,2013,70.335
+Trinidad and Tobago,Developing,North America,2013,72.582
+Tunisia,Developing,Africa,2013,75.552
+Turkey,Developing,Asia,2013,75.784
+Turkmenistan,Developing,Asia,2013,67.375
+Uganda,Developing,Africa,2013,59.881
+Ukraine,Developing,Europe,2013,71.1595122
+United Arab Emirates,Developing,Asia,2013,76.903
+United Kingdom,Developed,Europe,2013,81.00487805
+United States,Developed,North America,2013,78.74146341
+Uruguay,Developing,South America,2013,77.124
+Uzbekistan,Developing,Asia,2013,70.41
+Vanuatu,Developing,Oceania,2013,69.57
+Venezuela,Developing,South America,2013,72.918
+Vietnam,Developing,Asia,2013,75.006
+Yemen,Developing,Asia,2013,66.016
+Zambia,Developing,Africa,2013,59.746
+Zimbabwe,Developing,Africa,2013,56.897
+Afghanistan,Developing,Asia,2014,62.966
+Albania,Developing,Europe,2014,77.813
+Algeria,Developing,Africa,2014,75.878
+Angola,Developing,Africa,2014,58.776
+Antigua and Barbuda,Developing,North America,2014,76.349
+Argentina,Developing,South America,2014,75.913
+Armenia,Developing,Asia,2014,74.273
+Australia,Developed,Oceania,2014,82.3
+Austria,Developed,Europe,2014,81.4902439
+Azerbaijan,Developing,Asia,2014,72.022
+Bahamas,Developing,North America,2014,72.847
+Bahrain,Developing,Asia,2014,76.624
+Bangladesh,Developing,Asia,2014,71.231
+Barbados,Developing,North America,2014,78.717
+Belarus,Developing,Europe,2014,72.97073171
+Belgium,Developed,Europe,2014,81.28780488
+Belize,Developing,North America,2014,73.782
+Benin,Developing,Africa,2014,60.345
+Bhutan,Developing,Asia,2014,70.046
+Bolivia,Developing,South America,2014,69.891
+Bosnia and Herzegovina,Developing,Europe,2014,76.723
+Botswana,Developing,Africa,2014,66.265
+Brazil,Developing,South America,2014,74.745
+Brunei,Developing,Asia,2014,75.193
+Bulgaria,Developing,Europe,2014,74.46585366
+Burkina Faso,Developing,Africa,2014,59.45
+Burundi,Developing,Africa,2014,59.665
+Cambodia,Developing,Asia,2014,68.273
+Cameroon,Developing,Africa,2014,57.083
+Canada,Developed,North America,2014,81.8
+Cape Verde,Developing,Africa,2014,71.886
+Central African Republic,Developing,Africa,2014,50.129
+Chad,Developing,Africa,2014,52.789
+Chile,Developing,South America,2014,79.504
+China,Developing,Asia,2014,75.629
+Colombia,Developing,South America,2014,76.322
+Comoros,Developing,Africa,2014,63.214
+Costa Rica,Developing,North America,2014,79.398
+Croatia,Developing,Europe,2014,77.47804878
+Czech Republic,Developed,Europe,2014,78.82439024
+Denmark,Developed,Europe,2014,80.7
+Djibouti,Developing,Africa,2014,63.171
+Dominica,Developing,North America,2014,76.59756098
+Dominican Republic,Developing,North America,2014,73.003
+DR Congo,Developing,Africa,2014,58.828
+Ecuador,Developing,South America,2014,75.923
+Egypt,Developing,Africa,2014,71.117
+El Salvador,Developing,North America,2014,72.175
+Equatorial Guinea,Developing,Africa,2014,57.001
+Eritrea,Developing,Africa,2014,64.201
+Estonia,Developed,Europe,2014,77.03414634
+Eswatini,Developing,Africa,2014,53.569
+Ethiopia,Developing,Africa,2014,64.547
+Fiji,Developing,Oceania,2014,67.03
+Finland,Developed,Europe,2014,81.1804878
+France,Developed,Europe,2014,82.7195122
+Gabon,Developing,Africa,2014,64.318
+Gambia,Developing,Africa,2014,60.667
+Georgia,Developing,Asia,2014,72.707
+Germany,Developed,Europe,2014,81.0902439
+Ghana,Developing,Africa,2014,62.416
+Grenada,Developing,North America,2014,72.503
+Guatemala,Developing,North America,2014,72.935
+Guinea,Developing,Africa,2014,59.016
+Guinea-Bissau,Developing,Africa,2014,56.556
+Guyana,Developing,South America,2014,69.049
+Haiti,Developing,North America,2014,62.069
+Honduras,Developing,North America,2014,74.278
+Hungary,Developing,Europe,2014,75.76341463
+Iceland,Developed,Europe,2014,82.86097561
+India,Developing,Asia,2014,68.286
+Indonesia,Developing,Asia,2014,70.481
+Iran,Developing,Asia,2014,75.502
+Iraq,Developing,Asia,2014,69.7
+Ireland,Developed,Europe,2014,81.34878049
+Ivory Coast,Developing,Africa,2014,55.508
+Jamaica,Developing,North America,2014,74.042
+Japan,Developed,Asia,2014,83.58780488
+Jordan,Developing,Asia,2014,73.969
+Kazakhstan,Developing,Asia,2014,71.44
+Kenya,Developing,Africa,2014,64.135
+Kiribati,Developing,Oceania,2014,66.995
+Kuwait,Developing,Asia,2014,75.019
+Kyrgyzstan,Developing,Asia,2014,70.40243902
+Laos,Developing,Asia,2014,66.144
+Lebanon,Developing,Asia,2014,78.732
+Lesotho,Developing,Africa,2014,49.891
+Liberia,Developing,Africa,2014,61.723
+Libya,Developing,Africa,2014,71.981
+Luxembourg,Developed,Europe,2014,82.22926829
+Madagascar,Developing,Africa,2014,65.133
+Malawi,Developing,Africa,2014,61.042
+Malaysia,Developing,Asia,2014,75.268
+Maldives,Developing,Asia,2014,77.36
+Mali,Developing,Africa,2014,57.036
+Marshall Islands,Developing,Oceania,2014,65.23902439
+Mauritania,Developing,Africa,2014,63.654
+Mauritius,Developing,Africa,2014,74.19439024
+Mexico,Developing,North America,2014,74.908
+Micronesia,Developing,Oceania,2014,67.152
+Moldova,Developing,Europe,2014,71.267
+Mongolia,Developing,Asia,2014,68.863
+Montenegro,Developing,Europe,2014,76.44146341
+Morocco,Developing,Africa,2014,75.477
+Mozambique,Developing,Africa,2014,56.062
+Myanmar,Developing,Asia,2014,65.378
+Namibia,Developing,Africa,2014,61.425
+Nepal,Developing,Asia,2014,69.168
+Netherlands,Developed,Europe,2014,81.70731707
+New Zealand,Developed,Oceania,2014,81.40487805
+Nicaragua,Developing,North America,2014,73.429
+Niger,Developing,Africa,2014,60.07
+Nigeria,Developing,Africa,2014,52.672
+North Macedonia,Developing,Europe,2014,75.45121951
+Norway,Developed,Europe,2014,82.1
+Oman,Developing,Asia,2014,76.634
+Pakistan,Developing,Asia,2014,66.36
+Palau,Developing,Oceania,2014,69.81146341
+Panama,Developing,North America,2014,77.583
+Papua New Guinea,Developing,Oceania,2014,63.181
+Paraguay,Developing,South America,2014,73.473
+Peru,Developing,South America,2014,75.529
+Philippines,Developing,Asia,2014,70.481
+Portugal,Developed,Europe,2014,81.12195122
+Qatar,Developing,Asia,2014,79.646
+Republic of the Congo,Developing,Africa,2014,62.582
+Romania,Developing,Europe,2014,74.9097561
+Russia,Developing,Europe,2014,70.74365854
+Rwanda,Developing,Africa,2014,66.884
+Saint Kitts and Nevis,Developing,North America,2014,71.33658537
+Saint Lucia,Developing,North America,2014,75.44
+Saint Vincent and the Grenadines,Developing,North America,2014,72.01
+Samoa,Developing,Oceania,2014,72.549
+Sao Tome and Principe,Developing,Africa,2014,69.052
+Saudi Arabia,Developing,Asia,2014,74.533
+Senegal,Developing,Africa,2014,66.37
+Serbia,Developing,Europe,2014,75.33658537
+Seychelles,Developing,Africa,2014,73.22926829
+Sierra Leone,Developing,Africa,2014,52.372
+Singapore,Developed,Asia,2014,82.49512195
+Solomon Islands,Developing,Oceania,2014,71.896
+Somalia,Developing,Africa,2014,55.509
+South Africa,Developing,Africa,2014,61.968
+South Korea,Developed,Asia,2014,81.72195122
+South Sudan,Developing,Africa,2014,56.552
+Spain,Developed,Europe,2014,83.22926829
+Sri Lanka,Developing,Asia,2014,76.147
+Sudan,Developing,Africa,2014,64.169
+Suriname,Developing,South America,2014,71.133
+Sweden,Developed,Europe,2014,82.25365854
+Switzerland,Developed,Europe,2014,83.19756098
+Syria,Developing,Asia,2014,69.821
+Tajikistan,Developing,Asia,2014,69.874
+Tanzania,Developing,Africa,2014,62.288
+Thailand,Developing,Asia,2014,75.747
+Timor-Leste,Developing,Asia,2014,68.197
+Togo,Developing,Africa,2014,59.58
+Tonga,Developing,Oceania,2014,70.427
+Trinidad and Tobago,Developing,North America,2014,72.768
+Tunisia,Developing,Africa,2014,75.734
+Turkey,Developing,Asia,2014,76.172
+Turkmenistan,Developing,Asia,2014,67.552
+Uganda,Developing,Africa,2014,60.669
+Ukraine,Developing,Europe,2014,71.18658537
+United Arab Emirates,Developing,Asia,2014,77.095
+United Kingdom,Developed,Europe,2014,81.30487805
+United States,Developed,North America,2014,78.84146341
+Uruguay,Developing,South America,2014,77.244
+Uzbekistan,Developing,Asia,2014,70.671
+Vanuatu,Developing,Oceania,2014,69.719
+Venezuela,Developing,South America,2014,72.762
+Vietnam,Developing,Asia,2014,75.056
+Yemen,Developing,Asia,2014,66.066
+Zambia,Developing,Africa,2014,60.831
+Zimbabwe,Developing,Africa,2014,58.41
+Afghanistan,Developing,Asia,2015,63.377
+Albania,Developing,Europe,2015,78.025
+Algeria,Developing,Africa,2015,76.09
+Angola,Developing,Africa,2015,59.398
+Antigua and Barbuda,Developing,North America,2015,76.483
+Argentina,Developing,South America,2015,76.068
+Armenia,Developing,Asia,2015,74.467
+Australia,Developed,Oceania,2015,82.4
+Austria,Developed,Europe,2015,81.1902439
+Azerbaijan,Developing,Asia,2015,72.266
+Bahamas,Developing,North America,2015,73.088
+Bahrain,Developing,Asia,2015,76.762
+Bangladesh,Developing,Asia,2015,71.514
+Barbados,Developing,North America,2015,78.801
+Belarus,Developing,Europe,2015,73.62439024
+Belgium,Developed,Europe,2015,80.99268293
+Belize,Developing,North America,2015,74.034
+Benin,Developing,Africa,2015,60.608
+Bhutan,Developing,Asia,2015,70.419
+Bolivia,Developing,South America,2015,70.277
+Bosnia and Herzegovina,Developing,Europe,2015,76.865
+Botswana,Developing,Africa,2015,67.338
+Brazil,Developing,South America,2015,74.994
+Brunei,Developing,Asia,2015,75.318
+Bulgaria,Developing,Europe,2015,74.61463415
+Burkina Faso,Developing,Africa,2015,59.919
+Burundi,Developing,Africa,2015,60.123
+Cambodia,Developing,Asia,2015,68.637
+Cameroon,Developing,Africa,2015,57.583
+Canada,Developed,North America,2015,81.9
+Cape Verde,Developing,Africa,2015,72.117
+Central African Republic,Developing,Africa,2015,50.881
+Chad,Developing,Africa,2015,53.137
+Chile,Developing,South America,2015,79.646
+China,Developing,Asia,2015,75.928
+Colombia,Developing,South America,2015,76.531
+Comoros,Developing,Africa,2015,63.471
+Costa Rica,Developing,North America,2015,79.565
+Croatia,Developing,Europe,2015,77.27560976
+Czech Republic,Developed,Europe,2015,78.57804878
+Denmark,Developed,Europe,2015,80.70243902
+Djibouti,Developing,Africa,2015,64.136
+Dominica,Developing,North America,2015,76.59756098
+Dominican Republic,Developing,North America,2015,73.241
+DR Congo,Developing,Africa,2015,59.254
+Ecuador,Developing,South America,2015,76.143
+Egypt,Developing,Africa,2015,71.302
+El Salvador,Developing,North America,2015,72.412
+Equatorial Guinea,Developing,Africa,2015,57.359
+Eritrea,Developing,Africa,2015,64.664
+Estonia,Developed,Europe,2015,77.5902439
+Eswatini,Developing,Africa,2015,55.359
+Ethiopia,Developing,Africa,2015,65.048
+Fiji,Developing,Oceania,2015,67.103
+Finland,Developed,Europe,2015,81.4804878
+France,Developed,Europe,2015,82.32195122
+Gabon,Developing,Africa,2015,64.913
+Gambia,Developing,Africa,2015,60.91
+Georgia,Developing,Asia,2015,72.973
+Germany,Developed,Europe,2015,80.64146341
+Ghana,Developing,Africa,2015,62.772
+Grenada,Developing,North America,2015,72.445
+Guatemala,Developing,North America,2015,73.25
+Guinea,Developing,Africa,2015,59.598
+Guinea-Bissau,Developing,Africa,2015,56.959
+Guyana,Developing,South America,2015,69.262
+Haiti,Developing,North America,2015,62.485
+Honduras,Developing,North America,2015,74.495
+Hungary,Developing,Europe,2015,75.56829268
+Iceland,Developed,Europe,2015,82.46829268
+India,Developing,Asia,2015,68.607
+Indonesia,Developing,Asia,2015,70.768
+Iran,Developing,Asia,2015,75.796
+Iraq,Developing,Asia,2015,69.929
+Ireland,Developed,Europe,2015,81.45365854
+Ivory Coast,Developing,Africa,2015,56.065
+Jamaica,Developing,North America,2015,74.098
+Japan,Developed,Asia,2015,83.79390244
+Jordan,Developing,Asia,2015,74.078
+Kazakhstan,Developing,Asia,2015,71.97
+Kenya,Developing,Africa,2015,64.798
+Kiribati,Developing,Oceania,2015,67.291
+Kuwait,Developing,Asia,2015,75.13
+Kyrgyzstan,Developing,Asia,2015,70.65121951
+Laos,Developing,Asia,2015,66.546
+Lebanon,Developing,Asia,2015,78.768
+Lesotho,Developing,Africa,2015,51.038
+Liberia,Developing,Africa,2015,62.269
+Libya,Developing,Africa,2015,72.121
+Luxembourg,Developed,Europe,2015,82.29268293
+Madagascar,Developing,Africa,2015,65.539
+Malawi,Developing,Africa,2015,61.953
+Malaysia,Developing,Asia,2015,75.461
+Maldives,Developing,Asia,2015,77.691
+Mali,Developing,Africa,2015,57.509
+Marshall Islands,Developing,Oceania,2015,65.23902439
+Mauritania,Developing,Africa,2015,63.936
+Mauritius,Developing,Africa,2015,74.35317073
+Mexico,Developing,North America,2015,74.904
+Micronesia,Developing,Oceania,2015,67.315
+Moldova,Developing,Europe,2015,71.478
+Mongolia,Developing,Asia,2015,69.111
+Montenegro,Developing,Europe,2015,76.44878049
+Morocco,Developing,Africa,2015,75.726
+Mozambique,Developing,Africa,2015,57.206
+Myanmar,Developing,Asia,2015,65.81
+Namibia,Developing,Africa,2015,62.119
+Nepal,Developing,Asia,2015,69.515
+Netherlands,Developed,Europe,2015,81.5097561
+New Zealand,Developed,Oceania,2015,81.45682927
+Nicaragua,Developing,North America,2015,73.649
+Niger,Developing,Africa,2015,60.631
+Nigeria,Developing,Africa,2015,53.112
+North Macedonia,Developing,Europe,2015,75.40243902
+Norway,Developed,Europe,2015,82.30487805
+Oman,Developing,Asia,2015,76.887
+Pakistan,Developing,Asia,2015,66.577
+Palau,Developing,Oceania,2015,69.81146341
+Panama,Developing,North America,2015,77.776
+Papua New Guinea,Developing,Oceania,2015,63.466
+Paraguay,Developing,South America,2015,73.662
+Peru,Developing,South America,2015,75.792
+Philippines,Developing,Asia,2015,70.644
+Portugal,Developed,Europe,2015,81.12439024
+Qatar,Developing,Asia,2015,79.758
+Republic of the Congo,Developing,Africa,2015,63.097
+Romania,Developing,Europe,2015,74.91219512
+Russia,Developing,Europe,2015,71.18341463
+Rwanda,Developing,Africa,2015,67.45
+Saint Kitts and Nevis,Developing,North America,2015,71.33658537
+Saint Lucia,Developing,North America,2015,75.596
+Saint Vincent and the Grenadines,Developing,North America,2015,72.095
+Samoa,Developing,Oceania,2015,72.73
+Sao Tome and Principe,Developing,Africa,2015,69.377
+Saudi Arabia,Developing,Asia,2015,74.651
+Senegal,Developing,Africa,2015,66.747
+Serbia,Developing,Europe,2015,75.28780488
+Seychelles,Developing,Africa,2015,74.29512195
+Sierra Leone,Developing,Africa,2015,52.941
+Singapore,Developed,Asia,2015,82.74390244
+Solomon Islands,Developing,Oceania,2015,72.173
+Somalia,Developing,Africa,2015,55.92
+South Africa,Developing,Africa,2015,62.649
+South Korea,Developed,Asia,2015,82.02439024
+South Sudan,Developing,Africa,2015,56.855
+Spain,Developed,Europe,2015,82.83170732
+Sri Lanka,Developing,Asia,2015,76.316
+Sudan,Developing,Africa,2015,64.429
+Suriname,Developing,South America,2015,71.249
+Sweden,Developed,Europe,2015,82.20487805
+Switzerland,Developed,Europe,2015,82.89756098
+Syria,Developing,Asia,2015,69.908
+Tajikistan,Developing,Asia,2015,70.137
+Tanzania,Developing,Africa,2015,63.111
+Thailand,Developing,Asia,2015,76.091
+Timor-Leste,Developing,Asia,2015,68.459
+Togo,Developing,Africa,2015,59.927
+Tonga,Developing,Oceania,2015,70.517
+Trinidad and Tobago,Developing,North America,2015,72.941
+Tunisia,Developing,Africa,2015,75.922
+Turkey,Developing,Asia,2015,76.532
+Turkmenistan,Developing,Asia,2015,67.704
+Uganda,Developing,Africa,2015,61.373
+Ukraine,Developing,Europe,2015,71.1895122
+United Arab Emirates,Developing,Asia,2015,77.285
+United Kingdom,Developed,Europe,2015,80.95609756
+United States,Developed,North America,2015,78.6902439
+Uruguay,Developing,South America,2015,77.369
+Uzbekistan,Developing,Asia,2015,70.928
+Vanuatu,Developing,Oceania,2015,69.869
+Venezuela,Developing,South America,2015,72.584
+Vietnam,Developing,Asia,2015,75.11
+Yemen,Developing,Asia,2015,66.085
+Zambia,Developing,Africa,2015,61.737
+Zimbabwe,Developing,Africa,2015,59.534
+Afghanistan,Developing,Asia,2016,63.763
+Albania,Developing,Europe,2016,78.194
+Algeria,Developing,Africa,2016,76.298
+Angola,Developing,Africa,2016,59.925
+Antigua and Barbuda,Developing,North America,2016,76.617
+Argentina,Developing,South America,2016,76.221
+Armenia,Developing,Asia,2016,74.64
+Australia,Developed,Oceania,2016,82.44878049
+Austria,Developed,Europe,2016,81.64146341
+Azerbaijan,Developing,Asia,2016,72.493
+Bahamas,Developing,North America,2016,73.329
+Bahrain,Developing,Asia,2016,76.899
+Bangladesh,Developing,Asia,2016,71.785
+Barbados,Developing,North America,2016,78.888
+Belarus,Developing,Europe,2016,73.82682927
+Belgium,Developed,Europe,2016,81.43902439
+Belize,Developing,North America,2016,74.219
+Benin,Developing,Africa,2016,60.885
+Bhutan,Developing,Asia,2016,70.781
+Bolivia,Developing,South America,2016,70.626
+Bosnia and Herzegovina,Developing,Europe,2016,76.998
+Botswana,Developing,Africa,2016,68.178
+Brazil,Developing,South America,2016,75.23
+Brunei,Developing,Asia,2016,75.45
+Bulgaria,Developing,Europe,2016,74.81219512
+Burkina Faso,Developing,Africa,2016,60.354
+Burundi,Developing,Africa,2016,60.528
+Cambodia,Developing,Asia,2016,68.977
+Cameroon,Developing,Africa,2016,58.063
+Canada,Developed,North America,2016,81.9
+Cape Verde,Developing,Africa,2016,72.347
+Central African Republic,Developing,Africa,2016,51.593
+Chad,Developing,Africa,2016,53.438
+Chile,Developing,South America,2016,79.779
+China,Developing,Asia,2016,76.21
+Colombia,Developing,South America,2016,76.732
+Comoros,Developing,Africa,2016,63.7
+Costa Rica,Developing,North America,2016,79.738
+Croatia,Developing,Europe,2016,78.02195122
+Czech Republic,Developed,Europe,2016,79.02682927
+Denmark,Developed,Europe,2016,80.85365854
+Djibouti,Developing,Africa,2016,65.064
+Dominica,Developing,North America,2016,76.59756098
+Dominican Republic,Developing,North America,2016,73.471
+DR Congo,Developing,Africa,2016,59.655
+Ecuador,Developing,South America,2016,76.365
+Egypt,Developing,Africa,2016,71.482
+El Salvador,Developing,North America,2016,72.644
+Equatorial Guinea,Developing,Africa,2016,57.713
+Eritrea,Developing,Africa,2016,65.111
+Estonia,Developed,Europe,2016,77.64146341
+Eswatini,Developing,Africa,2016,56.962
+Ethiopia,Developing,Africa,2016,65.482
+Fiji,Developing,Oceania,2016,67.175
+Finland,Developed,Europe,2016,81.42926829
+France,Developed,Europe,2016,82.57317073
+Gabon,Developing,Africa,2016,65.418
+Gambia,Developing,Africa,2016,61.166
+Georgia,Developing,Asia,2016,73.207
+Germany,Developed,Europe,2016,80.9902439
+Ghana,Developing,Africa,2016,63.124
+Grenada,Developing,North America,2016,72.408
+Guatemala,Developing,North America,2016,73.541
+Guinea,Developing,Africa,2016,60.17
+Guinea-Bissau,Developing,Africa,2016,57.328
+Guyana,Developing,South America,2016,69.454
+Haiti,Developing,North America,2016,62.896
+Honduras,Developing,North America,2016,74.701
+Hungary,Developing,Europe,2016,76.06341463
+Iceland,Developed,Europe,2016,82.20487805
+India,Developing,Asia,2016,68.897
+Indonesia,Developing,Asia,2016,71.035
+Iran,Developing,Asia,2016,76.047
+Iraq,Developing,Asia,2016,70.122
+Ireland,Developed,Europe,2016,81.65365854
+Ivory Coast,Developing,Africa,2016,56.567
+Jamaica,Developing,North America,2016,74.175
+Japan,Developed,Asia,2016,83.98487805
+Jordan,Developing,Asia,2016,74.184
+Kazakhstan,Developing,Asia,2016,72.41
+Kenya,Developing,Africa,2016,65.393
+Kiribati,Developing,Oceania,2016,67.577
+Kuwait,Developing,Asia,2016,75.224
+Kyrgyzstan,Developing,Asia,2016,70.95121951
+Laos,Developing,Asia,2016,66.924
+Lebanon,Developing,Asia,2016,78.8
+Lesotho,Developing,Africa,2016,52.059
+Liberia,Developing,Africa,2016,62.802
+Libya,Developing,Africa,2016,72.311
+Luxembourg,Developed,Europe,2016,82.68536585
+Madagascar,Developing,Africa,2016,65.931
+Malawi,Developing,Africa,2016,62.681
+Malaysia,Developing,Asia,2016,75.649
+Maldives,Developing,Asia,2016,78.013
+Mali,Developing,Africa,2016,57.987
+Marshall Islands,Developing,Oceania,2016,65.23902439
+Mauritania,Developing,Africa,2016,64.208
+Mauritius,Developing,Africa,2016,74.39487805
+Mexico,Developing,North America,2016,74.917
+Micronesia,Developing,Oceania,2016,67.471
+Moldova,Developing,Europe,2016,71.617
+Mongolia,Developing,Asia,2016,69.321
+Montenegro,Developing,Europe,2016,76.44146341
+Morocco,Developing,Africa,2016,75.974
+Mozambique,Developing,Africa,2016,58.309
+Myanmar,Developing,Asia,2016,66.205
+Namibia,Developing,Africa,2016,62.625
+Nepal,Developing,Asia,2016,69.848
+Netherlands,Developed,Europe,2016,81.56097561
+New Zealand,Developed,Oceania,2016,81.61243902
+Nicaragua,Developing,North America,2016,73.86
+Niger,Developing,Africa,2016,61.137
+Nigeria,Developing,Africa,2016,53.541
+North Macedonia,Developing,Europe,2016,75.4
+Norway,Developed,Europe,2016,82.40731707
+Oman,Developing,Asia,2016,77.142
+Pakistan,Developing,Asia,2016,66.77
+Palau,Developing,Oceania,2016,69.81146341
+Panama,Developing,North America,2016,77.964
+Papua New Guinea,Developing,Oceania,2016,63.744
+Paraguay,Developing,South America,2016,73.836
+Peru,Developing,South America,2016,76.044
+Philippines,Developing,Asia,2016,70.802
+Portugal,Developed,Europe,2016,81.12439024
+Qatar,Developing,Asia,2016,79.868
+Republic of the Congo,Developing,Africa,2016,63.556
+Romania,Developing,Europe,2016,75.2097561
+Russia,Developing,Europe,2016,71.65121951
+Rwanda,Developing,Africa,2016,67.93
+Saint Kitts and Nevis,Developing,North America,2016,71.33658537
+Saint Lucia,Developing,North America,2016,75.752
+Saint Vincent and the Grenadines,Developing,North America,2016,72.193
+Samoa,Developing,Oceania,2016,72.895
+Sao Tome and Principe,Developing,Africa,2016,69.67
+Saudi Arabia,Developing,Asia,2016,74.761
+Senegal,Developing,Africa,2016,67.078
+Serbia,Developing,Europe,2016,75.68780488
+Seychelles,Developing,Africa,2016,74.3097561
+Sierra Leone,Developing,Africa,2016,53.444
+Singapore,Developed,Asia,2016,82.84634146
+Solomon Islands,Developing,Oceania,2016,72.424
+Somalia,Developing,Africa,2016,56.324
+South Africa,Developing,Africa,2016,63.153
+South Korea,Developed,Asia,2016,82.27560976
+South Sudan,Developing,Africa,2016,57.12
+Spain,Developed,Europe,2016,83.32926829
+Sri Lanka,Developing,Asia,2016,76.482
+Sudan,Developing,Africa,2016,64.663
+Suriname,Developing,South America,2016,71.358
+Sweden,Developed,Europe,2016,82.30731707
+Switzerland,Developed,Europe,2016,83.60243902
+Syria,Developing,Asia,2016,70.315
+Tajikistan,Developing,Asia,2016,70.397
+Tanzania,Developing,Africa,2016,63.844
+Thailand,Developing,Asia,2016,76.403
+Timor-Leste,Developing,Asia,2016,68.735
+Togo,Developing,Africa,2016,60.22
+Tonga,Developing,Oceania,2016,70.607
+Trinidad and Tobago,Developing,North America,2016,73.1
+Tunisia,Developing,Africa,2016,76.115
+Turkey,Developing,Asia,2016,76.86
+Turkmenistan,Developing,Asia,2016,67.835
+Uganda,Developing,Africa,2016,61.986
+Ukraine,Developing,Europe,2016,71.47634146
+United Arab Emirates,Developing,Asia,2016,77.47
+United Kingdom,Developed,Europe,2016,81.15609756
+United States,Developed,North America,2016,78.53902439
+Uruguay,Developing,South America,2016,77.498
+Uzbekistan,Developing,Asia,2016,71.171
+Vanuatu,Developing,Oceania,2016,70.021
+Venezuela,Developing,South America,2016,72.405
+Vietnam,Developing,Asia,2016,75.172
+Yemen,Developing,Asia,2016,66.087
+Zambia,Developing,Africa,2016,62.464
+Zimbabwe,Developing,Africa,2016,60.294
+Afghanistan,Developing,Asia,2017,64.13
+Albania,Developing,Europe,2017,78.333
+Algeria,Developing,Africa,2017,76.499
+Angola,Developing,Africa,2017,60.379
+Antigua and Barbuda,Developing,North America,2017,76.752
+Argentina,Developing,South America,2017,76.372
+Armenia,Developing,Asia,2017,74.797
+Australia,Developed,Oceania,2017,82.5
+Austria,Developed,Europe,2017,81.64390244
+Azerbaijan,Developing,Asia,2017,72.693
+Bahamas,Developing,North America,2017,73.554
+Bahrain,Developing,Asia,2017,77.032
+Bangladesh,Developing,Asia,2017,72.052
+Barbados,Developing,North America,2017,78.981
+Belarus,Developing,Europe,2017,74.12926829
+Belgium,Developed,Europe,2017,81.49268293
+Belize,Developing,North America,2017,74.365
+Benin,Developing,Africa,2017,61.174
+Bhutan,Developing,Asia,2017,71.129
+Bolivia,Developing,South America,2017,70.945
+Bosnia and Herzegovina,Developing,Europe,2017,77.128
+Botswana,Developing,Africa,2017,68.812
+Brazil,Developing,South America,2017,75.456
+Brunei,Developing,Asia,2017,75.585
+Bulgaria,Developing,Europe,2017,74.81463415
+Burkina Faso,Developing,Africa,2017,60.768
+Burundi,Developing,Africa,2017,60.898
+Cambodia,Developing,Asia,2017,69.289
+Cameroon,Developing,Africa,2017,58.511
+Canada,Developed,North America,2017,81.9
+Cape Verde,Developing,Africa,2017,72.57
+Central African Republic,Developing,Africa,2017,52.24
+Chad,Developing,Africa,2017,53.712
+Chile,Developing,South America,2017,79.909
+China,Developing,Asia,2017,76.47
+Colombia,Developing,South America,2017,76.925
+Comoros,Developing,Africa,2017,63.912
+Costa Rica,Developing,North America,2017,79.914
+Croatia,Developing,Europe,2017,77.82682927
+Czech Republic,Developed,Europe,2017,78.97804878
+Denmark,Developed,Europe,2017,81.10243902
+Djibouti,Developing,Africa,2017,65.893
+Dominica,Developing,North America,2017,76.59756098
+Dominican Republic,Developing,North America,2017,73.689
+DR Congo,Developing,Africa,2017,60.026
+Ecuador,Developing,South America,2017,76.584
+Egypt,Developing,Africa,2017,71.656
+El Salvador,Developing,North America,2017,72.872
+Equatorial Guinea,Developing,Africa,2017,58.061
+Eritrea,Developing,Africa,2017,65.538
+Estonia,Developed,Europe,2017,78.09268293
+Eswatini,Developing,Africa,2017,58.319
+Ethiopia,Developing,Africa,2017,65.872
+Fiji,Developing,Oceania,2017,67.252
+Finland,Developed,Europe,2017,81.63170732
+France,Developed,Europe,2017,82.57560976
+Gabon,Developing,Africa,2017,65.839
+Gambia,Developing,Africa,2017,61.44
+Georgia,Developing,Asia,2017,73.414
+Germany,Developed,Europe,2017,80.99268293
+Ghana,Developing,Africa,2017,63.463
+Grenada,Developing,North America,2017,72.388
+Guatemala,Developing,North America,2017,73.81
+Guinea,Developing,Africa,2017,60.706
+Guinea-Bissau,Developing,Africa,2017,57.673
+Guyana,Developing,South America,2017,69.624
+Haiti,Developing,North America,2017,63.29
+Honduras,Developing,North America,2017,74.898
+Hungary,Developing,Europe,2017,75.81707317
+Iceland,Developed,Europe,2017,82.66097561
+India,Developing,Asia,2017,69.165
+Indonesia,Developing,Asia,2017,71.282
+Iran,Developing,Asia,2017,76.271
+Iraq,Developing,Asia,2017,70.294
+Ireland,Developed,Europe,2017,82.15609756
+Ivory Coast,Developing,Africa,2017,57.017
+Jamaica,Developing,North America,2017,74.267
+Japan,Developed,Asia,2017,84.0997561
+Jordan,Developing,Asia,2017,74.292
+Kazakhstan,Developing,Asia,2017,72.95
+Kenya,Developing,Africa,2017,65.909
+Kiribati,Developing,Oceania,2017,67.851
+Kuwait,Developing,Asia,2017,75.311
+Kyrgyzstan,Developing,Asia,2017,71.2
+Laos,Developing,Asia,2017,67.277
+Lebanon,Developing,Asia,2017,78.833
+Lesotho,Developing,Africa,2017,52.947
+Liberia,Developing,Africa,2017,63.295
+Libya,Developing,Africa,2017,72.52
+Luxembourg,Developed,Europe,2017,82.09512195
+Madagascar,Developing,Africa,2017,66.311
+Malawi,Developing,Africa,2017,63.279
+Malaysia,Developing,Asia,2017,75.828
+Maldives,Developing,Asia,2017,78.325
+Mali,Developing,Africa,2017,58.452
+Marshall Islands,Developing,Oceania,2017,65.23902439
+Mauritania,Developing,Africa,2017,64.464
+Mauritius,Developing,Africa,2017,74.51463415
+Mexico,Developing,North America,2017,74.947
+Micronesia,Developing,Oceania,2017,67.618
+Moldova,Developing,Europe,2017,71.717
+Mongolia,Developing,Asia,2017,69.509
+Montenegro,Developing,Europe,2017,76.48536585
+Morocco,Developing,Africa,2017,76.218
+Mozambique,Developing,Africa,2017,59.309
+Myanmar,Developing,Asia,2017,66.558
+Namibia,Developing,Africa,2017,63.021
+Nepal,Developing,Asia,2017,70.169
+Netherlands,Developed,Europe,2017,81.76097561
+New Zealand,Developed,Oceania,2017,81.65853659
+Nicaragua,Developing,North America,2017,74.068
+Niger,Developing,Africa,2017,61.599
+Nigeria,Developing,Africa,2017,53.95
+North Macedonia,Developing,Europe,2017,75.95365854
+Norway,Developed,Europe,2017,82.6097561
+Oman,Developing,Asia,2017,77.393
+Pakistan,Developing,Asia,2017,66.947
+Palau,Developing,Oceania,2017,69.81146341
+Panama,Developing,North America,2017,78.149
+Papua New Guinea,Developing,Oceania,2017,64.01
+Paraguay,Developing,South America,2017,73.992
+Peru,Developing,South America,2017,76.286
+Philippines,Developing,Asia,2017,70.952
+Portugal,Developed,Europe,2017,81.42439024
+Qatar,Developing,Asia,2017,79.981
+Republic of the Congo,Developing,Africa,2017,63.954
+Romania,Developing,Europe,2017,75.3097561
+Russia,Developing,Europe,2017,72.45146341
+Rwanda,Developing,Africa,2017,68.341
+Saint Kitts and Nevis,Developing,North America,2017,71.33658537
+Saint Lucia,Developing,North America,2017,75.907
+Saint Vincent and the Grenadines,Developing,North America,2017,72.3
+Samoa,Developing,Oceania,2017,73.046
+Sao Tome and Principe,Developing,Africa,2017,69.933
+Saudi Arabia,Developing,Asia,2017,74.874
+Senegal,Developing,Africa,2017,67.38
+Serbia,Developing,Europe,2017,75.53902439
+Seychelles,Developing,Africa,2017,74.3
+Sierra Leone,Developing,Africa,2017,53.895
+Singapore,Developed,Asia,2017,83.09512195
+Solomon Islands,Developing,Oceania,2017,72.645
+Somalia,Developing,Africa,2017,56.709
+South Africa,Developing,Africa,2017,63.538
+South Korea,Developed,Asia,2017,82.62682927
+South Sudan,Developing,Africa,2017,57.365
+Spain,Developed,Europe,2017,83.28292683
+Sri Lanka,Developing,Asia,2017,76.648
+Sudan,Developing,Africa,2017,64.881
+Suriname,Developing,South America,2017,71.463
+Sweden,Developed,Europe,2017,82.4097561
+Switzerland,Developed,Europe,2017,83.55121951
+Syria,Developing,Asia,2017,70.967
+Tajikistan,Developing,Asia,2017,70.647
+Tanzania,Developing,Africa,2017,64.479
+Thailand,Developing,Asia,2017,76.683
+Timor-Leste,Developing,Asia,2017,69.007
+Togo,Developing,Africa,2017,60.489
+Tonga,Developing,Oceania,2017,70.701
+Trinidad and Tobago,Developing,North America,2017,73.245
+Tunisia,Developing,Africa,2017,76.31
+Turkey,Developing,Asia,2017,77.161
+Turkmenistan,Developing,Asia,2017,67.956
+Uganda,Developing,Africa,2017,62.516
+Ukraine,Developing,Europe,2017,71.78097561
+United Arab Emirates,Developing,Asia,2017,77.647
+United Kingdom,Developed,Europe,2017,81.25609756
+United States,Developed,North America,2017,78.53902439
+Uruguay,Developing,South America,2017,77.632
+Uzbekistan,Developing,Asia,2017,71.388
+Vanuatu,Developing,Oceania,2017,70.172
+Venezuela,Developing,South America,2017,72.246
+Vietnam,Developing,Asia,2017,75.241
+Yemen,Developing,Asia,2017,66.086
+Zambia,Developing,Africa,2017,63.043
+Zimbabwe,Developing,Africa,2017,60.812
+Afghanistan,Developing,Asia,2018,64.486
+Albania,Developing,Europe,2018,78.458
+Algeria,Developing,Africa,2018,76.693
+Angola,Developing,Africa,2018,60.782
+Antigua and Barbuda,Developing,North America,2018,76.885
+Argentina,Developing,South America,2018,76.52
+Armenia,Developing,Asia,2018,74.945
+Australia,Developed,Oceania,2018,82.74878049
+Austria,Developed,Europe,2018,81.69268293
+Azerbaijan,Developing,Asia,2018,72.864
+Bahamas,Developing,North America,2018,73.752
+Bahrain,Developing,Asia,2018,77.163
+Bangladesh,Developing,Asia,2018,72.32
+Barbados,Developing,North America,2018,79.081
+Belarus,Developing,Europe,2018,74.17560976
+Belgium,Developed,Europe,2018,81.59512195
+Belize,Developing,North America,2018,74.496
+Benin,Developing,Africa,2018,61.47
+Bhutan,Developing,Asia,2018,71.46
+Bolivia,Developing,South America,2018,71.239
+Bosnia and Herzegovina,Developing,Europe,2018,77.262
+Botswana,Developing,Africa,2018,69.275
+Brazil,Developing,South America,2018,75.672
+Brunei,Developing,Asia,2018,75.722
+Bulgaria,Developing,Europe,2018,74.96341463
+Burkina Faso,Developing,Africa,2018,61.174
+Burundi,Developing,Africa,2018,61.247
+Cambodia,Developing,Asia,2018,69.57
+Cameroon,Developing,Africa,2018,58.921
+Canada,Developed,North America,2018,82.04878049
+Cape Verde,Developing,Africa,2018,72.782
+Central African Republic,Developing,Africa,2018,52.805
+Chad,Developing,Africa,2018,53.977
+Chile,Developing,South America,2018,80.042
+China,Developing,Asia,2018,76.704
+Colombia,Developing,South America,2018,77.109
+Comoros,Developing,Africa,2018,64.118
+Costa Rica,Developing,North America,2018,80.095
+Croatia,Developing,Europe,2018,78.07073171
+Czech Republic,Developed,Europe,2018,79.02926829
+Denmark,Developed,Europe,2018,80.95365854
+Djibouti,Developing,Africa,2018,66.582
+Dominica,Developing,North America,2018,76.59756098
+Dominican Republic,Developing,North America,2018,73.892
+DR Congo,Developing,Africa,2018,60.368
+Ecuador,Developing,South America,2018,76.8
+Egypt,Developing,Africa,2018,71.825
+El Salvador,Developing,North America,2018,73.096
+Equatorial Guinea,Developing,Africa,2018,58.402
+Eritrea,Developing,Africa,2018,65.941
+Estonia,Developed,Europe,2018,78.24390244
+Eswatini,Developing,Africa,2018,59.401
+Ethiopia,Developing,Africa,2018,66.24
+Fiji,Developing,Oceania,2018,67.341
+Finland,Developed,Europe,2018,81.73414634
+France,Developed,Europe,2018,82.67560976
+Gabon,Developing,Africa,2018,66.187
+Gambia,Developing,Africa,2018,61.735
+Georgia,Developing,Asia,2018,73.6
+Germany,Developed,Europe,2018,80.89268293
+Ghana,Developing,Africa,2018,63.78
+Grenada,Developing,North America,2018,72.384
+Guatemala,Developing,North America,2018,74.063
+Guinea,Developing,Africa,2018,61.185
+Guinea-Bissau,Developing,Africa,2018,58.003
+Guyana,Developing,South America,2018,69.774
+Haiti,Developing,North America,2018,63.66
+Honduras,Developing,North America,2018,75.088
+Hungary,Developing,Europe,2018,76.06585366
+Iceland,Developed,Europe,2018,82.86097561
+India,Developing,Asia,2018,69.416
+Indonesia,Developing,Asia,2018,71.509
+Iran,Developing,Asia,2018,76.479
+Iraq,Developing,Asia,2018,70.454
+Ireland,Developed,Europe,2018,82.20487805
+Ivory Coast,Developing,Africa,2018,57.422
+Jamaica,Developing,North America,2018,74.368
+Japan,Developed,Asia,2018,84.21097561
+Jordan,Developing,Asia,2018,74.405
+Kazakhstan,Developing,Asia,2018,73.15
+Kenya,Developing,Africa,2018,66.342
+Kiribati,Developing,Oceania,2018,68.116
+Kuwait,Developing,Asia,2018,75.398
+Kyrgyzstan,Developing,Asia,2018,71.4
+Laos,Developing,Asia,2018,67.61
+Lebanon,Developing,Asia,2018,78.875
+Lesotho,Developing,Africa,2018,53.705
+Liberia,Developing,Africa,2018,63.73
+Libya,Developing,Africa,2018,72.724
+Luxembourg,Developed,Europe,2018,82.29512195
+Madagascar,Developing,Africa,2018,66.681
+Malawi,Developing,Africa,2018,63.798
+Malaysia,Developing,Asia,2018,75.997
+Maldives,Developing,Asia,2018,78.627
+Mali,Developing,Africa,2018,58.893
+Marshall Islands,Developing,Oceania,2018,65.23902439
+Mauritania,Developing,Africa,2018,64.704
+Mauritius,Developing,Africa,2018,74.41634146
+Mexico,Developing,North America,2018,74.992
+Micronesia,Developing,Oceania,2018,67.755
+Moldova,Developing,Europe,2018,71.808
+Mongolia,Developing,Asia,2018,69.689
+Montenegro,Developing,Europe,2018,76.84146341
+Morocco,Developing,Africa,2018,76.453
+Mozambique,Developing,Africa,2018,60.163
+Myanmar,Developing,Asia,2018,66.867
+Namibia,Developing,Africa,2018,63.373
+Nepal,Developing,Asia,2018,70.478
+Netherlands,Developed,Europe,2018,81.81219512
+New Zealand,Developed,Oceania,2018,81.85853659
+Nicaragua,Developing,North America,2018,74.275
+Niger,Developing,Africa,2018,62.024
+Nigeria,Developing,Africa,2018,54.332
+North Macedonia,Developing,Europe,2018,76.64878049
+Norway,Developed,Europe,2018,82.75853659
+Oman,Developing,Asia,2018,77.633
+Pakistan,Developing,Asia,2018,67.114
+Palau,Developing,Oceania,2018,69.81146341
+Panama,Developing,North America,2018,78.329
+Papua New Guinea,Developing,Oceania,2018,64.263
+Paraguay,Developing,South America,2018,74.131
+Peru,Developing,South America,2018,76.516
+Philippines,Developing,Asia,2018,71.095
+Portugal,Developed,Europe,2018,81.32439024
+Qatar,Developing,Asia,2018,80.1
+Republic of the Congo,Developing,Africa,2018,64.29
+Romania,Developing,Europe,2018,75.35853659
+Russia,Developing,Europe,2018,72.66219512
+Rwanda,Developing,Africa,2018,68.7
+Saint Kitts and Nevis,Developing,North America,2018,71.33658537
+Saint Lucia,Developing,North America,2018,76.057
+Saint Vincent and the Grenadines,Developing,North America,2018,72.415
+Samoa,Developing,Oceania,2018,73.187
+Sao Tome and Principe,Developing,Africa,2018,70.17
+Saudi Arabia,Developing,Asia,2018,74.998
+Senegal,Developing,Africa,2018,67.665
+Serbia,Developing,Europe,2018,75.8902439
+Seychelles,Developing,Africa,2018,72.84146341
+Sierra Leone,Developing,Africa,2018,54.309
+Singapore,Developed,Asia,2018,83.29756098
+Solomon Islands,Developing,Oceania,2018,72.835
+Somalia,Developing,Africa,2018,57.068
+South Africa,Developing,Africa,2018,63.857
+South Korea,Developed,Asia,2018,82.62682927
+South Sudan,Developing,Africa,2018,57.604
+Spain,Developed,Europe,2018,83.43170732
+Sri Lanka,Developing,Asia,2018,76.812
+Sudan,Developing,Africa,2018,65.095
+Suriname,Developing,South America,2018,71.57
+Sweden,Developed,Europe,2018,82.55853659
+Switzerland,Developed,Europe,2018,83.75365854
+Syria,Developing,Asia,2018,71.779
+Tajikistan,Developing,Asia,2018,70.879
+Tanzania,Developing,Africa,2018,65.015
+Thailand,Developing,Asia,2018,76.931
+Timor-Leste,Developing,Asia,2018,69.26
+Togo,Developing,Africa,2018,60.76
+Tonga,Developing,Oceania,2018,70.801
+Trinidad and Tobago,Developing,North America,2018,73.38
+Tunisia,Developing,Africa,2018,76.505
+Turkey,Developing,Asia,2018,77.437
+Turkmenistan,Developing,Asia,2018,68.073
+Uganda,Developing,Africa,2018,62.973
+Ukraine,Developing,Europe,2018,71.58268293
+United Arab Emirates,Developing,Asia,2018,77.814
+United Kingdom,Developed,Europe,2018,81.25609756
+United States,Developed,North America,2018,78.63902439
+Uruguay,Developing,South America,2018,77.77
+Uzbekistan,Developing,Asia,2018,71.573
+Vanuatu,Developing,Oceania,2018,70.323
+Venezuela,Developing,South America,2018,72.128
+Vietnam,Developing,Asia,2018,75.317
+Yemen,Developing,Asia,2018,66.096
+Zambia,Developing,Africa,2018,63.51
+Zimbabwe,Developing,Africa,2018,61.195
+Afghanistan,Developing,Asia,2019,64.833
+Albania,Developing,Europe,2019,78.573
+Algeria,Developing,Africa,2019,76.88
+Angola,Developing,Africa,2019,61.147
+Antigua and Barbuda,Developing,North America,2019,77.016
+Argentina,Developing,South America,2019,76.667
+Armenia,Developing,Asia,2019,75.087
+Australia,Developed,Oceania,2019,82.9
+Austria,Developed,Europe,2019,81.89512195
+Azerbaijan,Developing,Asia,2019,73.005
+Bahamas,Developing,North America,2019,73.918
+Bahrain,Developing,Asia,2019,77.292
+Bangladesh,Developing,Asia,2019,72.591
+Barbados,Developing,North America,2019,79.19
+Belarus,Developing,Europe,2019,74.22682927
+Belgium,Developed,Europe,2019,81.99512195
+Belize,Developing,North America,2019,74.623
+Benin,Developing,Africa,2019,61.771
+Bhutan,Developing,Asia,2019,71.777
+Bolivia,Developing,South America,2019,71.513
+Bosnia and Herzegovina,Developing,Europe,2019,77.401
+Botswana,Developing,Africa,2019,69.592
+Brazil,Developing,South America,2019,75.881
+Brunei,Developing,Asia,2019,75.86
+Bulgaria,Developing,Europe,2019,75.11219512
+Burkina Faso,Developing,Africa,2019,61.577
+Burundi,Developing,Africa,2019,61.584
+Cambodia,Developing,Asia,2019,69.823
+Cameroon,Developing,Africa,2019,59.292
+Canada,Developed,North America,2019,82.04878049
+Cape Verde,Developing,Africa,2019,72.981
+Central African Republic,Developing,Africa,2019,53.283
+Chad,Developing,Africa,2019,54.239
+Chile,Developing,South America,2019,80.181
+China,Developing,Asia,2019,76.912
+Colombia,Developing,South America,2019,77.287
+Comoros,Developing,Africa,2019,64.321
+Costa Rica,Developing,North America,2019,80.279
+Croatia,Developing,Europe,2019,78.42439024
+Czech Republic,Developed,Europe,2019,79.22926829
+Denmark,Developed,Europe,2019,81.45121951
+Djibouti,Developing,Africa,2019,67.112
+Dominica,Developing,North America,2019,76.59756098
+Dominican Republic,Developing,North America,2019,74.081
+DR Congo,Developing,Africa,2019,60.681
+Ecuador,Developing,South America,2019,77.01
+Egypt,Developing,Africa,2019,71.99
+El Salvador,Developing,North America,2019,73.317
+Equatorial Guinea,Developing,Africa,2019,58.735
+Eritrea,Developing,Africa,2019,66.321
+Estonia,Developed,Europe,2019,78.64634146
+Eswatini,Developing,Africa,2019,60.194
+Ethiopia,Developing,Africa,2019,66.597
+Fiji,Developing,Oceania,2019,67.444
+Finland,Developed,Europe,2019,81.98292683
+France,Developed,Europe,2019,82.82682927
+Gabon,Developing,Africa,2019,66.467
+Gambia,Developing,Africa,2019,62.05
+Georgia,Developing,Asia,2019,73.767
+Germany,Developed,Europe,2019,81.29268293
+Ghana,Developing,Africa,2019,64.074
+Grenada,Developing,North America,2019,72.397
+Guatemala,Developing,North America,2019,74.302
+Guinea,Developing,Africa,2019,61.602
+Guinea-Bissau,Developing,Africa,2019,58.322
+Guyana,Developing,South America,2019,69.906
+Haiti,Developing,North America,2019,64.001
+Honduras,Developing,North America,2019,75.27
+Hungary,Developing,Europe,2019,76.3195122
+Iceland,Developed,Europe,2019,83.16341463
+India,Developing,Asia,2019,69.656
+Indonesia,Developing,Asia,2019,71.716
+Iran,Developing,Asia,2019,76.677
+Iraq,Developing,Asia,2019,70.604
+Ireland,Developed,Europe,2019,82.70243902
+Ivory Coast,Developing,Africa,2019,57.783
+Jamaica,Developing,North America,2019,74.475
+Japan,Developed,Asia,2019,84.35634146
+Jordan,Developing,Asia,2019,74.526
+Kazakhstan,Developing,Asia,2019,73.18
+Kenya,Developing,Africa,2019,66.699
+Kiribati,Developing,Oceania,2019,68.369
+Kuwait,Developing,Asia,2019,75.489
+Kyrgyzstan,Developing,Asia,2019,71.6
+Laos,Developing,Asia,2019,67.923
+Lebanon,Developing,Asia,2019,78.93
+Lesotho,Developing,Africa,2019,54.331
+Liberia,Developing,Africa,2019,64.104
+Libya,Developing,Africa,2019,72.913
+Luxembourg,Developed,Europe,2019,82.63902439
+Madagascar,Developing,Africa,2019,67.041
+Malawi,Developing,Africa,2019,64.263
+Malaysia,Developing,Asia,2019,76.156
+Maldives,Developing,Asia,2019,78.921
+Mali,Developing,Africa,2019,59.306
+Marshall Islands,Developing,Oceania,2019,65.23902439
+Mauritania,Developing,Africa,2019,64.925
+Mauritius,Developing,Africa,2019,74.23585366
+Mexico,Developing,North America,2019,75.054
+Micronesia,Developing,Oceania,2019,67.883
+Moldova,Developing,Europe,2019,71.901
+Mongolia,Developing,Asia,2019,69.87
+Montenegro,Developing,Europe,2019,76.68292683
+Morocco,Developing,Africa,2019,76.68
+Mozambique,Developing,Africa,2019,60.854
+Myanmar,Developing,Asia,2019,67.134
+Namibia,Developing,Africa,2019,63.708
+Nepal,Developing,Asia,2019,70.778
+Netherlands,Developed,Europe,2019,82.11219512
+New Zealand,Developed,Oceania,2019,81.70731707
+Nicaragua,Developing,North America,2019,74.485
+Niger,Developing,Africa,2019,62.42
+Nigeria,Developing,Africa,2019,54.687
+North Macedonia,Developing,Europe,2019,76.60243902
+Norway,Developed,Europe,2019,82.95853659
+Oman,Developing,Asia,2019,77.861
+Pakistan,Developing,Asia,2019,67.273
+Palau,Developing,Oceania,2019,69.81146341
+Panama,Developing,North America,2019,78.506
+Papua New Guinea,Developing,Oceania,2019,64.501
+Paraguay,Developing,South America,2019,74.254
+Peru,Developing,South America,2019,76.736
+Philippines,Developing,Asia,2019,71.231
+Portugal,Developed,Europe,2019,81.67560976
+Qatar,Developing,Asia,2019,80.227
+Republic of the Congo,Developing,Africa,2019,64.57
+Romania,Developing,Europe,2019,75.60731707
+Russia,Developing,Europe,2019,73.08390244
+Rwanda,Developing,Africa,2019,69.024
+Saint Kitts and Nevis,Developing,North America,2019,71.33658537
+Saint Lucia,Developing,North America,2019,76.203
+Saint Vincent and the Grenadines,Developing,North America,2019,72.534
+Samoa,Developing,Oceania,2019,73.321
+Sao Tome and Principe,Developing,Africa,2019,70.385
+Saudi Arabia,Developing,Asia,2019,75.133
+Senegal,Developing,Africa,2019,67.941
+Serbia,Developing,Europe,2019,75.93658537
+Seychelles,Developing,Africa,2019,74.04634146
+Sierra Leone,Developing,Africa,2019,54.696
+Singapore,Developed,Asia,2019,83.59512195
+Solomon Islands,Developing,Oceania,2019,72.996
+Somalia,Developing,Africa,2019,57.397
+South Africa,Developing,Africa,2019,64.131
+South Korea,Developed,Asia,2019,83.22682927
+South Sudan,Developing,Africa,2019,57.846
+Spain,Developed,Europe,2019,83.83170732
+Sri Lanka,Developing,Asia,2019,76.978
+Sudan,Developing,Africa,2019,65.311
+Suriname,Developing,South America,2019,71.682
+Sweden,Developed,Europe,2019,83.1097561
+Switzerland,Developed,Europe,2019,83.90487805
+Syria,Developing,Asia,2019,72.697
+Tajikistan,Developing,Asia,2019,71.097
+Tanzania,Developing,Africa,2019,65.456
+Thailand,Developing,Asia,2019,77.15
+Timor-Leste,Developing,Asia,2019,69.495
+Togo,Developing,Africa,2019,61.042
+Tonga,Developing,Oceania,2019,70.907
+Trinidad and Tobago,Developing,North America,2019,73.507
+Tunisia,Developing,Africa,2019,76.699
+Turkey,Developing,Asia,2019,77.691
+Turkmenistan,Developing,Asia,2019,68.191
+Uganda,Developing,Africa,2019,63.368
+Ukraine,Developing,Europe,2019,71.82731707
+United Arab Emirates,Developing,Asia,2019,77.972
+United Kingdom,Developed,Europe,2019,81.20487805
+United States,Developed,North America,2019,78.78780488
+Uruguay,Developing,South America,2019,77.911
+Uzbekistan,Developing,Asia,2019,71.725
+Vanuatu,Developing,Oceania,2019,70.474
+Venezuela,Developing,South America,2019,72.064
+Vietnam,Developing,Asia,2019,75.4
+Yemen,Developing,Asia,2019,66.125
+Zambia,Developing,Africa,2019,63.886
+Zimbabwe,Developing,Africa,2019,61.49
